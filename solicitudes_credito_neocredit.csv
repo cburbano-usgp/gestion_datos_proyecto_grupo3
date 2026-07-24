@@ -1,0 +1,670 @@
+id_solicitud,id_cliente,nombre_cliente,edad,genero,ciudad,ingreso_mensual,tipo_empleo,antiguedad_laboral_meses,monto_solicitado,plazo_meses,score_buro_externo,deuda_actual,num_tarjetas_activas,historial_pagos_atrasados,fecha_solicitud,canal_solicitud,dispositivo,ip_pais,resultado_solicitud,fraude_flag
+SOL-10402,CLI-3535,Victor Manuel Eutimio Criado Dávila,39,,,1228.2,Empleado,32,11846.41,60,655,10759.89,3,0,03/02/2026,Call Center,IOS,Ecuador,Aprobado,0
+SOL-10523,CLI-4482,Francisco Jose Piquer Zamorano,28,Femenino,Cuenca,2335.89,Jubilado,82,1006.22,24,772,6654.8,1,3,2025-02-20,,IOS,Ecuador,Pendiente,0
+SOL-10425,CLI-4858,Emma Santana Beltran,44,Masculino,Ibarra,2190.81,independiente,-12,1396.69,60,448,14084.54,5,3,18 de November de 2025,web,Android,Ecuador,Rechazado,0
+SOL-10481,CLI-2144,Urbano Alejo Agullo Martín,67,m,quito,1798.58,,148,5070.51,48,626,629.02,5,2,2025-08-22,Call Center,IOS,Ecuador,Pendiente,0
+SOL-10301,CLI-3806,Lara Águila-Mendez,25,Femenino,quito,1992.73,independiente,237,2040.71,24,604,13738.36,5,3,,Call Center,,Rusia,aprobado,1
+SOL-10152,CLI-3432,Manu Hernandez Tamayo,56,F,quito,661.73,EMPLEADO,220,1950.69,60,546,12035.46,4,1,18 de October de 2025,web,Desconocido,Ecuador,aprobado,0
+SOL-10220,CLI-4013,Ariel Cabrera Salcedo,51,F,Manta,3584.76,Independiente,28,5230.54,24,628,11545.22,1,0,11-01-2024,,IOS,Ecuador,Rechazado,0
+SOL-10599,CLI-3542,Sebastián Rebollo Valera,48,m,Loja,2387.26,,51,1924.64,60,423,13271.58,4,3,10-12-2024,APP,iOS,Ecuador,Aprobado,0
+SOL-10530,CLI-2048,María Cristina Almudena Beltran Fabra,69,Femenino,Ambato,3227.51,Empleado,155,1873.09,24,365,4541.41,1,0,2026-02-11,,android,Ecuador,Pendiente,0
+SOL-10545,CLI-1859,Miguela de Zamora,73,m,Loja,2931.98,independiente,44,12861.2,24,673,2435.61,3,0,27/07/2024,Call Center,Desconocido,Ecuador,RECHAZADO,0
+SOL-10638,CLI-1582,Julio César del Diéguez,19,,Manta,2395.78,estudiante,95,7617.33,12,551,13841.2,2,0,2026-01-24,web,android,Colombia,aprobado,0
+SOL-10341,CLI-2348,Casemiro Berenguer Marqués,37,F,Quito,2367.86,EMPLEADO,215,871.54,36,355,3551.15,0,3,03-12-2026,,,Ecuador,RECHAZADO,0
+SOL-10085,CLI-1215,Felicia Mayoral Goñi,24,,Guayaquil,3192.89,,237,8727.84,24,594,13619.05,0,2,12-12-2024,app movil,IOS,Ecuador,Rechazado,0
+SOL-10321,CLI-4095,Rómulo Emigdio Barbero Ortiz,25,F,GUAYAQUIL,,Independiente,222,2888.44,36,752,13057.39,1,2,08/07/2025,web,,Ecuador,aprobado,0
+SOL-10319,CLI-3757,Jordana Sanchez Moraleda,59,,,4380.86,Jubilado,72,933.46,24,477,1513.56,3,1,26/03/2026,app movil,iOS,Ecuador,Pendiente,0
+SOL-10505,CLI-3314,Joaquina del Almeida,38,Femenino,Manta,4022.63,empleado,66,1873.93,36,672,6745.1,5,2,,Sucursal,Android,Ecuador,aprobado,0
+SOL-10518,CLI-2125,Donato Arregui Quesada,35,f,Guayaquil,$1307.43,EMPLEADO,56,2382.53,60,771,4931.28,3,1,05-19-2025,App,Desktop,Ecuador,aprobado,0
+SOL-10056,CLI-1491,Nadia del Cortina,18,Otro,Cuenca,929.66,Jubilado,128,2786.49,12,0,8636.39,4,1,18 de November de 2024,Call Center,Desktop,Ecuador,Pendiente,0
+SOL-10240,CLI-1788,Angelita Chico Gonzalez,36,f,,,Desempleado,40,641.66,60,826,8240.48,2,0,23 de March de 2026,APP,IOS,Ecuador,Pendiente,0
+SOL-10389,CLI-3308,Anselmo Ramis Parra,60,Masculino,Machala,3768.43,independiente,97,1396.51,12,844,989.39,5,0,13/07/2025,web,,Ecuador,Pendiente,0
+SOL-10147,CLI-2937,Remigio del Pinilla,20,Otro,Cuenca,2934.8,independiente,9,3528.62,12,786,303.49,6,3,05/03/2025,APP,Desktop,Peru,Aprobado,0
+SOL-10344,CLI-2317,Bartolomé Amigó Catalá,50,f,Manta,2793.03,Desempleado,37,3049.28,12,830,859.76,4,3,,App,android,Ecuador,Rechazado,0
+SOL-10417,CLI-1683,Anselmo Soria Landa,56,f,Quito,1382.07,Independiente,16,601.3,36,492,485.5,2,0,08-09-2025,App,IOS,Ecuador,Aprobado,0
+SOL-10091,CLI-1282,Azahar Plaza,48,Otro,Cuenca,3552.79,independiente,95,5397.07,48,684,13118.31,1,2,,web,Android,Ecuador,aprobado,0
+SOL-10313,CLI-3651,Consuela Mínguez Diéguez,51,,Machala,724.65,empleado,38,2473.23,60,,1147.99,0,1,2024-08-27,Call Center,android,Peru,RECHAZADO,0
+SOL-10385,CLI-4052,Ildefonso Escribano Marin,24,Masculino,Machala,2385.19,independiente,76,824.07,60,489,5906.95,6,1,,,Android,Ecuador,RECHAZADO,0
+SOL-10023,CLI-1960,Fidela Gimenez Chacón,35,F,Cuenca,1018.41,Desempleado,180,5315.2,60,777,6302.15,6,1,10 de July de 2025,App,,Ecuador,aprobado,0
+SOL-10569,CLI-1582,Alex Huguet Río,74,F,,4230.42,Independiente,89,9669.54,12,809,9197.87,2,1,12 de September de 2024,Call Center,,Ecuador,RECHAZADO,0
+SOL-10034,CLI-4824,Gerardo Meléndez Heras,30,Femenino,Sto. Domingo,1010.86,Desempleado,18,2276.04,60,595,4561.37,3,0,08-14-2024,,android,Ecuador,aprobado,0
+SOL-10340,CLI-3785,Custodio Noguera Torre,51,f,GUAYAQUIL,3511.99,Jubilado,12,5564.82,36,305,13201.48,6,0,20 de November de 2024,app movil,Desconocido,Ecuador,Rechazado,0
+SOL-10096,CLI-1062,Leonel Bernardo Feliu Rivero,31,F,Ibarra,4498.25,Jubilado,178,1587.98,24,629,8004.75,2,0,01/11/2025,web,IOS,Ecuador,Aprobado,0
+SOL-10325,CLI-4162,Isidoro Bernabé Solís Mateu,51,Masculino,Quito,514.35,empleado,61,2381.21,60,413,3896.35,4,0,2025-08-24,App,,Ecuador,aprobado,0
+SOL-10414,CLI-4390,Cecilio Mora Gomis,32,Masculino,Guayaquil,4344.41,independiente,187,5243.37,12,375,2372.6,1,0,2025-03-12,Web,iOS,Ecuador,aprobado,0
+SOL-10067,CLI-2477,José Luis Lara,22,M,Machala,$3980.66,independiente,95,521.42,12,653,1554.96,4,2,,web,iOS,Ecuador,Pendiente,0
+SOL-10289,CLI-4137,Aurora Lopez Gonzalo,55,Otro,Loja,2350.89,independiente,124,1207.2,12,425,9425.57,1,0,2026-02-13,App,,Peru,Aprobado,0
+SOL-20541,,,,,,,,,,,,,,,,,,,,
+SOL-10115,CLI-2873,Isidro Berenguer-Macias,54,,GUAYAQUIL,2494.3,empleado,198,3350.45,12,751,1536.25,6,2,,app movil,Desktop,Ecuador,aprobado,0
+SOL-10450,CLI-4728,María Manuela Martínez Navarrete,61,f,Machala,2815.51,empleado,79,11807.34,60,425,14522.3,6,0,08/07/2025,Web,Android,Peru,Rechazado,0
+SOL-10607,CLI-3732,Rosalinda Ros Camacho,72,F,Cuenca ,$839.77,Empleado,158,639.36,12,610,14418.13,0,0,10/07/2024,app movil,Desconocido,Ecuador,Pendiente,0
+SOL-10236,CLI-4141,Artemio Marquez Morillo,18,f,Loja,2023.8,Empleado,213,3700.59,48,785,7222.43,5,1,,web,android,Ecuador,Aprobado,0
+SOL-10263,CLI-2440,Celso del Torralba,23,m,Machala,3243.36,estudiante,177,1155.93,60,761,9158.07,0,1,2026-01-31,,IOS,Colombia,Pendiente,0
+SOL-10546,CLI-4208,Sebastian Atienza Agudo,19,,Quito,3413.3,independiente,11,9678.96,12,315,6298.24,0,0,30/04/2025,,android,Ecuador,aprobado,0
+SOL-10355,CLI-3471,Elías Sancho Vilanova,49,Femenino,Guayaquil,4136.52,Jubilado,59,9279.92,12,677,12895.61,3,1,2024-10-18,Web,iOS,Ecuador,Aprobado,0
+SOL-10452,CLI-4149,Jordán Saturnino Alegria Pedrosa,53,F,Ibarra,1509.74,Jubilado,110,813.06,12,784,10177.5,3,1,02/03/2025,Web,Desktop,Ecuador,Pendiente,0
+SOL-10250,CLI-4701,Vicente de Pont,39,M,quito,2261.54,EMPLEADO,107,2031.37,12,611,921.27,3,1,2025-05-30,App,Desconocido,Ecuador,Aprobado,0
+SOL-10312,CLI-4881,Ambrosio Barrera,71,Femenino,quito,2226.31,empleado,144,962.08,36,490,606.57,2,1,14 de February de 2025,app movil,Desconocido,Ecuador,aprobado,0
+SOL-10455,CLI-4583,Juan Francisco Pinto Coloma,51,M,Guayaquil,624.24,Independiente,85,2252.35,36,362,7662.31,5,0,23 de February de 2026,app movil,IOS,Ecuador,Rechazado,0
+SOL-10503,CLI-2334,Abilio Cruz Ramírez,50,m,Guayaquil,$1107.6,Jubilado,176,1154.12,12,618,5121.79,4,3,12 de August de 2024,Web,IOS,Ecuador,Aprobado,0
+SOL-10563,CLI-2493,Octavio Lozano Aparicio,75,Femenino,Loja,No disponible,Desempleado,82,1827.33,60,431,14782.56,5,1,11-11-2024,web,Android,Ecuador,Rechazado,0
+SOL-10137,CLI-3147,Josefa Sala Salamanca,40,Masculino,Cuenca ,4288.31,estudiante,138,7321.48,12,,7169.83,2,1,2026-03-02,Sucursal,Desktop,Ecuador,Aprobado,0
+SOL-10598,CLI-2924,Isidoro Manuel,210,F,Machala,3475.79,Independiente,135,1853.54,48,497,2146.25,6,3,2026-03-02,,iOS,Ecuador,Pendiente,0
+SOL-10011,CLI-2599,Alonso Goñi Mancebo,34,,Manta,2134.33,,169,975.96,24,359,11219.63,0,0,06-23-2026,,IOS,Ecuador,Rechazado,0
+SOL-10164,CLI-3770,Evita Espinosa Aznar,59,M,Quito,3037.93,estudiante,218,929.95,48,628,755.26,1,1,03 de January de 2025,Call Center,android,Ecuador,aprobado,0
+SOL-10510,CLI-1414,Mercedes Segura Coronado,27,f,Quito,2357.11,estudiante,140,1897.7,48,774,1437.37,1,0,,Sucursal,android,Ecuador,aprobado,0
+SOL-10483,CLI-4368,Elodia Santos Zamora,19,m,Cuenca ,2148.66,Desempleado,212,949.2,12,755,1302.96,1,0,29 de June de 2025,Web,Desktop,Ecuador,Aprobado,0
+SOL-10502,CLI-1539,Laura Bou-Vicens,23,F,Quito,2217.85,EMPLEADO,24,2586.72,24,317,13495.0,5,3,05-24-2025,web,IOS,Ecuador (VPN),Aprobado,1
+SOL-10248,CLI-1556,Yéssica Matas Real,23,Otro,quito,4063.69,independiente,159,10696.5,48,693,9068.6,4,1,,app movil,Desconocido,Ecuador,RECHAZADO,0
+SOL-10227,CLI-2531,Angelino Sala Ojeda,29,,quito,963.8,Empleado,104,635.09,48,527,11366.65,0,0,24/06/2026,,Desconocido,Ecuador,Rechazado,0
+SOL-10242,CLI-2112,Severo Córdoba-Jimenez,62,,Manta,3206.36,estudiante,120,1436.23,60,564,10494.22,5,0,,web,android,Ecuador,aprobado,0
+SOL-10472,CLI-4804,María Del Carmen Lamas Aroca,35,m,Guayaquil,4495.1,empleado,86,573.11,36,575,12153.89,4,0,2025-11-04,APP,IOS,Ecuador,Rechazado,0
+SOL-10007,CLI-4778,Aroa Bru Pinto,51,f,quito,479.85,empleado,61,747.41,48,370,1886.41,5,1,09-11-2024,Sucursal,Desktop,Ecuador,aprobado,0
+SOL-10234,CLI-2694,Dionisia Nidia Cerro Caballero,51,Femenino,Cuenca ,638.56,,22,2141.64,36,565,5307.8,1,1,04-24-2026,,IOS,Ecuador,aprobado,0
+SOL-10188,CLI-1004,Mercedes Téllez Bou,75,Otro,GUAYAQUIL,2124.8,,109,9726.58,48,658,11423.09,5,1,2025-06-11,Call Center,iOS,Ecuador,Aprobado,0
+SOL-10619,CLI-2317,Bartolomé Amigó Catalá,53,F,Guayaquil,757.7,EMPLEADO,121,1893.97,24,0,9969.61,3,2,12-19-2024,web,IOS,Ecuador,Rechazado,0
+SOL-10345,CLI-2398,Florina Calista Cámara Escrivá,30,,Cuenca ,3238.9,EMPLEADO,157,2894.74,48,343,9581.51,5,0,02/03/2026,app movil,iOS,Ecuador,aprobado,0
+SOL-10239,CLI-1586,Rosenda Marquez Nevado,67,Masculino,Ambato,3370.74,,-12,587.41,60,389,1546.54,6,2,10 de February de 2026,APP,Android,Ecuador,Rechazado,0
+SOL-10045,CLI-4589,Maricruz Suárez-Herrero,41,m,Cuenca,1453.58,estudiante,206,3665.08,48,377,12902.11,5,2,27/01/2026,web,Android,Ecuador,Pendiente,0
+SOL-10287,CLI-3128,Aránzazu Vera Garcia,26,f,Ibarra,1581.91,Independiente,83,5067.22,60,619,3388.1,3,0,,Call Center,iOS,Ecuador,Pendiente,0
+SOL-10114,CLI-4448,Rodolfo Vázquez-Tormo,46,f,Quito,2386.9,independiente,143,8509.23,48,725,2508.8,4,4,,app movil,Desktop,Nigeria,Pendiente,1
+SOL-10609,CLI-2628,Piedad Villena,61,M,quito,2173.2,Desempleado,3,581.32,36,588,4009.27,5,0,,app movil,iOS,Ecuador,Aprobado,0
+SOL-10030,CLI-3267,Josué Escalona-Vera,51,f,Loja,3281.71,empleado,59,1539.33,60,489,4147.49,4,3,05-01-2026,APP,Android,Ecuador,Rechazado,0
+SOL-10155,CLI-2563,Juana Núñez Roig,51,M,Cuenca,963.2,independiente,145,7658.32,24,382,2652.36,5,0,2026-07-01,,Desktop,Ecuador,RECHAZADO,0
+SOL-10482,CLI-3770,Evita Espinosa Aznar,28,m,quito,2199.56,empleado,240,1015.85,36,444,7630.47,1,0,09-19-2024,App,IOS,Ecuador,Aprobado,0
+SOL-10531,CLI-1299,Paloma Gaya-Tello,30,,Guayaquil,-2351.75,Jubilado,153,566.34,12,753,12086.49,4,3,02/12/2024,App,Desktop,Ecuador,Pendiente,0
+SOL-10516,CLI-1313,Alcides Rius Alcázar,38,Masculino,Cuenca ,4405.06,Independiente,97,828.09,36,732,11201.51,5,2,25 de December de 2024,Web,,Ecuador,Rechazado,0
+SOL-10591,CLI-1250,Isabela Nadal Ros,46,M,Guayaquil,1120.99,Desempleado,224,1769.98,12,492,14879.71,1,1,19 de February de 2026,APP,IOS,Colombia,Pendiente,0
+SOL-10156,CLI-3005,Eusebia del Santiago,68,F,Cuenca,2919.37,independiente,109,4509.34,60,504,13380.1,6,3,01-17-2025,app movil,Android,Colombia,Rechazado,0
+SOL-10178,CLI-1045,Nadia Figuerola-Rodríguez,53,Masculino,Guayaquil,571.27,independiente,137,817.5,36,516,7688.29,1,0,2024-09-24,APP,iOS,Peru,RECHAZADO,0
+SOL-10498,CLI-4306,Trinidad Rocío Bilbao Zaragoza,65,,Ambato,1089.21,Jubilado,23,957.33,48,300,782.84,4,3,25/05/2025,Call Center,Desconocido,Ecuador,RECHAZADO,0
+SOL-10374,CLI-2380,Magdalena Nevado Díez,56,f,Sto. Domingo,4049.62,Jubilado,240,5256.87,12,664,46.27,6,2,02/03/2026,Sucursal,Android,Ecuador,Pendiente,0
+SOL-10439,CLI-3421,Ildefonso Cañete Lamas,42,M,Manta,473.13,Empleado,233,1236.66,48,337,586.8,5,0,2025-12-16,,Android,Ecuador,Pendiente,0
+SOL-10615,CLI-3047,Ariadna Ríos Santamaria,38,m,Ibarra,2341.75,,197,3838.95,48,327,11385.74,0,1,21/02/2025,Web,Android,Colombia,Aprobado,0
+SOL-10347,CLI-1721,Nicolasa Gámez Saldaña,71,F,Quito,3808.93,Independiente,86,2164.96,36,681,14656.53,4,1,22 de September de 2025,Web,Android,Ecuador,Rechazado,0
+SOL-10392,CLI-3057,Desiderio Pazos Paredes,36,Otro,GUAYAQUIL,4260.88,Jubilado,78,1023.19,48,620,1150.4,1,0,2025-04-08,App,Android,Ecuador,aprobado,0
+SOL-10093,CLI-1413,Juan Bautista Figueras Pascual,56,M,Ambato,3436.22,Jubilado,138,478.03,36,539,4783.56,4,3,14 de May de 2025,web,iOS,Ecuador,RECHAZADO,0
+SOL-10081,CLI-4392,Toni de Elorza,50,m,quito,3744.57,Independiente,106,569.38,36,533,2557.68,5,2,04-08-2026,Call Center,iOS,Ecuador,Aprobado,0
+SOL-10356,CLI-4701,Apolonia Girona Sanmartín,73,Femenino,Manta,2172.02,estudiante,40,2269.99,60,,2140.38,0,3,10/04/2026,app movil,IOS,Ecuador,aprobado,0
+SOL-10077,CLI-3484,Leandro Araujo Peiró,27,f,Ibarra,4450.9,independiente,33,11246.6,36,547,3718.78,0,0,01/09/2025,Call Center,,Ecuador,Rechazado,0
+SOL-10105,CLI-1050,Jordán de Sarabia,36,F,Ibarra,4094.66,Jubilado,146,4839.0,36,608,2508.11,2,1,01/05/2025,,,Ecuador,Rechazado,0
+SOL-10207,CLI-3041,Mamen Pi Sarabia,41,M,Loja,728.91,Desempleado,14,4642.77,48,485,12258.76,6,0,2026-05-15,app movil,android,Ecuador,Rechazado,0
+SOL-10101,CLI-3608,Juana Doménech,18,F,quito,3865.85,EMPLEADO,144,1006.33,12,535,13313.31,3,0,2025-10-27,Web,Desconocido,Ecuador,RECHAZADO,0
+SOL-10157,CLI-4592,David Carrillo-Fernández,40,F,Machala,2463.68,Independiente,210,2164.74,60,836,14932.09,2,1,18/02/2025,app movil,iOS,Ecuador,Aprobado,0
+SOL-10338,CLI-3787,Ruth Castell Zurita,63,F,Cuenca ,2963.47,Jubilado,59,2744.16,48,-1,13048.74,4,1,09/09/2024,Sucursal,IOS,Ecuador,RECHAZADO,0
+SOL-10494,CLI-2978,Noelia Valverde Mercader,50,F,Guayaquil,No disponible,Desempleado,-12,11992.6,24,502,585.93,3,1,2025-11-19,,iOS,Ecuador,aprobado,0
+SOL-10646,CLI-4455,Noemí Orozco-Roman,41,f,Sto. Domingo,$2745.19,empleado,84,1036.22,60,300,2549.02,3,3,01/11/2024,Web,Desktop,Ecuador,RECHAZADO,0
+SOL-10173,CLI-3345,Cayetano Heredia Durán,53,f,GUAYAQUIL,1301.84,Independiente,201,5586.16,48,394,9950.02,2,0,10/08/2025,app movil,,Ecuador,RECHAZADO,0
+SOL-10225,CLI-3801,David Serra Izquierdo,69,Masculino,Manta,3222.98,Desempleado,110,1162.49,60,461,14229.02,0,3,03/06/2025,Sucursal,Desconocido,Vietnam,aprobado,1
+SOL-10465,CLI-3204,Belén Blazquez Menendez,70,M,Ambato,2423.58,Empleado,88,5696.3,60,382,1941.97,5,0,2025-03-14,App,android,Colombia,Pendiente,0
+SOL-10083,CLI-3768,Eliseo de Campoy,67,m,Cuenca ,2385.14,empleado,142,2416.94,24,800,14005.51,6,2,08/04/2025,APP,Android,Ecuador,aprobado,0
+SOL-10129,CLI-3020,Rosario Arjona Anguita,67,Femenino,Cuenca,426.15,Jubilado,138,640.2,12,685,1559.24,4,0,28/05/2026,,Android,Ecuador,Pendiente,0
+SOL-10636,CLI-1663,Herminia Saldaña Torres,58,M,Guayaquil,4429.71,empleado,117,9368.08,48,713,9710.3,4,0,,Call Center,,Ecuador,Rechazado,0
+SOL-10630,CLI-4479,José Mari Pont Ripoll,42,Femenino,Guayaquil,3873.86,estudiante,113,6201.17,48,323,13227.09,3,3,,web,Desktop,Ecuador (VPN),RECHAZADO,1
+SOL-10401,CLI-1456,Natividad Olivera Barón,24,Masculino,Loja,1878.33,,154,1968.03,48,389,11138.81,0,0,08-09-2025,app movil,iOS,Ecuador,Aprobado,0
+SOL-10260,CLI-3717,Segismundo de Moles,39,M,Machala,884.57,,117,9595.81,60,,2123.86,5,0,18/10/2024,App,iOS,Ecuador,Aprobado,0
+SOL-10033,CLI-1406,Reyes de Morante,66,Femenino,Manta,3107.76,Desempleado,141,531.7,60,781,10604.34,5,3,25/06/2025,Web,Desconocido,Ecuador,RECHAZADO,0
+SOL-10132,CLI-3854,Lope Gibert Sola,56,f,Cuenca,773.97,EMPLEADO,101,2008.13,24,331,8339.31,4,0,2025-11-26,,Android,Ecuador,Aprobado,0
+SOL-10013,CLI-4805,Goyo Lobo Santana,66,M,quito,2946.75,Independiente,18,10060.8,36,370,2366.2,6,1,10 de October de 2025,APP,IOS,Colombia,RECHAZADO,0
+SOL-10159,CLI-3874,Eliana Zamorano Luna,27,M,Manta,,,69,1067.53,12,823,1710.19,0,1,2026-06-19,app movil,,Ecuador,Rechazado,0
+SOL-10258,CLI-2574,Rubén Fuertes Bayona,62,,Guayaquil,2725.7,EMPLEADO,85,4610.39,12,674,1206.85,3,3,,APP,Desconocido,Ecuador,Aprobado,0
+SOL-10567,CLI-2274,Ruperto Bermudez Valle,40,Otro,Manta,2448.7,independiente,51,828.71,12,836,913.51,4,0,29 de December de 2025,web,Android,Ecuador,Aprobado,0
+SOL-10120,CLI-2025,Emma Porta Rius,23,Masculino,Quito,2025.0,Jubilado,109,720.35,48,379,10199.74,0,0,31 de July de 2025,web,,Ecuador,Rechazado,0
+SOL-10210,CLI-1717,Vera Bayona Hidalgo,38,f,,4056.36,Empleado,176,1000.28,12,796,8141.01,3,0,01-20-2026,Sucursal,IOS,Ecuador,Pendiente,0
+SOL-10018,CLI-4778,Aroa Bru Pinto,40,f,Machala,2885.46,independiente,230,1835.51,48,301,10302.86,5,2,21 de January de 2026,app movil,Desktop,Peru,Pendiente,0
+SOL-10139,CLI-1914,Teodoro Octavio Carrillo Armengol,60,Masculino,Machala,1657.98,Desempleado,45,6201.51,60,333,12132.1,4,0,13 de March de 2025,Web,android,Ecuador,Rechazado,0
+SOL-10205,CLI-1029,Primitivo Eustaquio Tovar Comas,53,Otro,GUAYAQUIL,2192.14,independiente,212,1863.37,24,829,12113.62,5,0,25/05/2025,APP,android,Ecuador,Rechazado,0
+SOL-10391,CLI-4612,Albino Clavero Ríos,72,Masculino,Manta,438.94,Desempleado,168,5635.12,36,354,5552.26,6,0,28 de July de 2024,Call Center,Desconocido,Ecuador,Pendiente,0
+SOL-10419,CLI-1153,Marino Juanito Bueno Valverde,36,,Guayaquil,-4029.34,Jubilado,226,1207.53,24,813,9770.92,6,0,14/10/2025,Sucursal,Desktop,Ecuador,aprobado,0
+SOL-10448,CLI-2190,Berta Mosquera,71,Masculino,,-1000.99,empleado,205,8770.12,36,563,6881.26,6,0,14/05/2026,web,IOS,Ecuador,aprobado,0
+SOL-10010,CLI-1779,Ani Marcos Pardo,52,Otro,Cuenca,1542.04,Independiente,113,9391.63,60,315,12730.44,1,1,29/08/2025,,iOS,Ecuador,Rechazado,0
+SOL-10645,CLI-4295,Isidoro Carpio Gálvez,28,f,Cuenca ,-1945.08,Independiente,21,480.01,48,804,11903.84,5,2,2024-12-03,App,Android,Ecuador,Rechazado,0
+SOL-10334,CLI-1268,León Pomares Luz,48,Femenino,Quito,1503.55,Independiente,63,1021.85,48,756,3051.85,1,0,01-03-2025,Sucursal,,Ecuador,RECHAZADO,0
+SOL-10249,CLI-1137,Alejo Mayo Ugarte,20,f,Guayaquil,2779.1,Independiente,36,12934.32,36,776,9151.06,1,1,25 de September de 2024,Web,Desconocido,Ecuador,Pendiente,0
+SOL-10179,CLI-4487,Moisés de Larrañaga,66,,Sto. Domingo,2653.62,Independiente,64,10244.93,36,431,4277.06,0,0,27/02/2026,,android,Peru,Pendiente,0
+SOL-10534,CLI-1643,Raúl Tejero Herrera,38,,Sto. Domingo,2840.44,empleado,58,10189.86,36,679,5309.0,5,0,23/11/2025,APP,android,Ecuador,Aprobado,0
+SOL-10434,CLI-4501,Maricruz Milla Falcó,20,f,Loja,2384.04,,1,2541.27,24,330,11414.41,1,2,11/01/2026,Web,iOS,Nigeria,Aprobado,1
+SOL-10190,CLI-2692,Guiomar Valbuena Maldonado,53,,Cuenca,1917.87,empleado,78,5971.56,12,535,2426.93,1,1,30/10/2025,web,,Peru,Aprobado,0
+SOL-10247,CLI-3915,Eugenia de Barroso,42,Otro,GUAYAQUIL,1265.99,Desempleado,48,3707.96,24,595,2014.16,0,2,2025-10-10,Sucursal,Desconocido,Peru,aprobado,0
+SOL-10650,CLI-4924,Espiridión Luciano Lastra Vilar,66,Masculino,Quito,3963.61,empleado,106,2877.8,24,545,4167.93,1,2,2026-06-23,Call Center,Android,Colombia,Pendiente,0
+SOL-10383,CLI-1215,Felicia Mayoral Goñi,42,Otro,Sto. Domingo,3850.81,Independiente,91,1278.03,12,827,14545.9,5,2,28/03/2025,app movil,Android,Ecuador,aprobado,0
+SOL-10382,CLI-1799,Evelia Estévez Valderrama,62,Otro,Guayaquil,936.69,Empleado,217,2166.03,24,440,13458.27,1,0,,app movil,Desconocido,Ecuador,RECHAZADO,0
+SOL-10462,CLI-4039,Marcos Tomé-Fernandez,28,Femenino,Guayaquil,2786.64,Independiente,52,1257.32,36,717,5110.67,5,2,02 de June de 2026,,iOS,Ecuador,aprobado,0
+SOL-10370,CLI-1992,Juan José Vera Vera,48,f,Sto. Domingo,$3296.89,Desempleado,66,1001.72,60,0,13753.24,3,2,08-12-2025,Web,IOS,Ecuador,Rechazado,0
+SOL-10111,CLI-3397,Diana Benet Salazar,59,Masculino,Ibarra,1400.04,Desempleado,84,7941.94,48,488,5933.74,5,1,2025-12-10,,IOS,Ecuador,Rechazado,0
+SOL-10335,CLI-1004,Trinidad Brígida Mínguez Bertrán,70,m,Sto. Domingo,$4385.54,estudiante,69,6498.48,24,822,8011.34,0,0,2025-09-01,Call Center,Desconocido,Ecuador,RECHAZADO,0
+SOL-10364,CLI-3093,Lucía Ileana Cantero Maldonado,58,M,Ambato,486.97,Independiente,79,6014.49,60,381,4449.22,1,1,2024-12-23,App,iOS,Ecuador,aprobado,0
+SOL-10554,CLI-1792,Brígida Hernando,33,F,Ambato,4349.77,independiente,31,982.33,24,,1759.38,2,1,2024-11-20,,iOS,Ecuador,Aprobado,0
+SOL-10183,CLI-2997,Josué Uribe-Río,32,f,Ambato,575.51,EMPLEADO,99,10020.97,12,631,9503.5,2,3,30 de August de 2024,APP,IOS,Ecuador,aprobado,0
+SOL-10149,CLI-3147,Rosalva Jordán Niño,74,Masculino,Ambato,3988.24,Empleado,63,633.61,24,580,5954.13,0,2,2025-01-23,app movil,Desktop,Ecuador,Rechazado,0
+SOL-10176,CLI-1155,David Maldonado Luna,23,Masculino,,No disponible,Jubilado,233,5402.25,48,743,1774.59,0,2,28 de November de 2025,Web,,Ecuador,Aprobado,0
+SOL-10541,CLI-3725,Marisol del Marquez,30,f,Ibarra,3955.7,Desempleado,52,728.39,60,340,14319.91,2,3,22/10/2024,app movil,Desconocido,Ecuador,Rechazado,0
+SOL-10583,CLI-1534,Yolanda de Vázquez,66,f,Cuenca ,4225.38,Empleado,173,747.44,12,354,13973.44,2,0,03 de November de 2024,Sucursal,iOS,Ecuador,Pendiente,0
+SOL-10279,CLI-4901,Nélida Corominas Gargallo,58,Otro,Cuenca,2678.84,Desempleado,51,5078.93,48,343,8778.12,3,2,18 de December de 2025,,iOS,Rusia,Pendiente,1
+SOL-10180,CLI-1624,Amor Daza Meléndez,54,f,Machala,1091.42,Jubilado,182,5053.36,36,437,7199.31,3,0,,APP,android,Ecuador,RECHAZADO,0
+SOL-10051,CLI-3397,Diana Benet Salazar,53,Otro,Cuenca ,2575.28,independiente,25,992.89,60,520,6207.2,6,1,13/02/2026,Call Center,Desconocido,Ecuador,Pendiente,0
+SOL-10121,CLI-1937,Rosalía de Torrents,42,F,Guayaquil,1684.74,Desempleado,97,1156.63,24,,9750.3,3,0,10 de December de 2024,app movil,Desconocido,Ecuador,RECHAZADO,0
+SOL-10311,CLI-1227,Gracia Zamora-Bermúdez,65,Otro,Guayaquil,2035.32,independiente,22,1447.76,48,591,2312.02,2,1,,Call Center,Desconocido,Ecuador,RECHAZADO,0
+SOL-10025,CLI-4761,Elba Gimenez Morata,26,Masculino,Quito,1466.64,estudiante,83,5056.51,48,558,11235.36,0,0,2024-10-27,Web,,Ecuador,Aprobado,0
+SOL-10092,CLI-3981,Edu Arregui,32,M,Manta,2298.32,independiente,136,1498.51,36,458,10875.36,0,0,,Call Center,IOS,Ecuador,Rechazado,0
+SOL-10331,CLI-4160,Guillermo Hernando Neira Badía,63,F,Sto. Domingo,2693.35,,147,9757.58,48,814,14042.73,1,0,30/01/2026,app movil,iOS,Ecuador,aprobado,0
+SOL-10145,CLI-3116,Josefa Ruano Ledesma,69,Masculino,Guayaquil,4291.94,Desempleado,54,917.07,12,745,2218.17,4,0,23/02/2025,Web,Android,Ecuador,RECHAZADO,0
+SOL-10103,CLI-1428,Raquel de Castellanos,71,Otro,,1738.14,estudiante,125,12764.57,48,490,1285.41,4,0,,app movil,Desconocido,Ecuador,Rechazado,0
+SOL-10223,CLI-3445,Marcia Escolano Domínguez,52,Femenino,GUAYAQUIL,4363.84,Empleado,10,10219.71,48,,10264.67,2,2,07/11/2024,app movil,IOS,Ecuador,Pendiente,0
+SOL-10230,CLI-4672,Marianela Palomar Marqués,63,,Guayaquil,1425.34,Desempleado,183,756.53,48,671,10903.11,4,1,2026-06-28,Call Center,IOS,Ecuador,Pendiente,0
+SOL-10589,CLI-4302,Evaristo Agudo Priego,66,F,Cuenca,1930.89,Jubilado,199,723.09,12,649,2343.66,5,3,02/03/2025,web,,Ecuador,Aprobado,0
+SOL-10500,CLI-4547,Cintia Conde,41,f,Ibarra,2138.72,Jubilado,97,489.17,36,838,4926.77,2,0,10-31-2024,App,IOS,Colombia,Pendiente,0
+SOL-10336,CLI-4597,Álvaro Olmo Menéndez,45,f,Sto. Domingo,4276.17,estudiante,69,3109.96,48,-1,13833.87,4,1,2026-06-10,App,Desconocido,Ecuador,aprobado,0
+SOL-10451,CLI-1615,Luisina Trillo,51,Masculino,Manta,No disponible,empleado,3,1519.81,60,426,6454.84,5,3,2025-12-03,App,Desktop,Ecuador,RECHAZADO,0
+SOL-10608,CLI-4701,Apolonia Girona Sanmartín,59,M,Guayaquil,1638.41,Jubilado,30,626.06,48,0,6828.67,4,2,01-08-2025,APP,Desktop,Ecuador (VPN),Rechazado,1
+SOL-10634,CLI-4207,Adelia Tormo Cerezo,68,Masculino,Manta,2646.55,Desempleado,-12,1711.58,12,368,11747.15,4,0,,,IOS,Ecuador,Rechazado,0
+SOL-10537,CLI-3484,Leandro Araujo Peiró,74,f,,3403.04,Desempleado,150,1687.1,48,551,9910.36,4,4,,APP,Desconocido,Rusia,Pendiente,1
+SOL-10124,CLI-4155,Luna Alba Prada Amores,-5,M,Manta,1284.55,independiente,129,12068.44,48,711,9240.71,2,0,02/09/2024,Web,IOS,Ecuador,RECHAZADO,0
+SOL-10170,CLI-1348,Javier Cañellas Sobrino,27,M,Ambato,1494.61,empleado,174,588.12,36,,12210.39,0,1,,app movil,Desconocido,Ecuador,Rechazado,0
+SOL-10088,CLI-4907,Nidia Muñoz Amorós,39,M,Manta,3080.1,Empleado,170,1927.77,60,618,14109.53,2,1,2024-09-25,app movil,iOS,Ecuador,RECHAZADO,0
+SOL-10198,CLI-1971,Rosalía Dafne Cuadrado Mercader,35,f,Loja,1154.05,independiente,179,3725.19,36,761,8638.39,1,3,2025-08-09,APP,,Ecuador,aprobado,0
+SOL-10291,CLI-4493,Pascual Mendizábal-Nicolás,42,M,Quito,1125.16,empleado,226,8578.18,36,698,10125.37,5,1,16 de March de 2025,,android,Ecuador,RECHAZADO,0
+SOL-10517,CLI-2241,Aureliano Aragonés Salom,57,Femenino,Ibarra,3675.71,estudiante,55,5049.57,24,,5980.06,1,2,12/09/2025,APP,Android,Ecuador,aprobado,0
+SOL-10084,CLI-2616,Timoteo Sosa Girón,70,Masculino,Manta,572.47,Independiente,88,2397.87,24,506,8430.27,2,0,2024-11-25,app movil,iOS,Ecuador,Rechazado,0
+SOL-10444,CLI-3364,Florentina Nicolau Pavón,59,,Guayaquil,3454.61,estudiante,47,9318.03,48,660,1261.0,3,0,2026-01-05,Call Center,IOS,Ecuador,Aprobado,0
+SOL-10532,CLI-1723,Encarnacion Alcántara Galán,39,m,Sto. Domingo,1628.51,Jubilado,87,11012.25,48,414,7313.71,2,1,19/05/2026,,iOS,Ecuador,Pendiente,0
+SOL-10315,CLI-1541,Aristides Hernández,73,Otro,GUAYAQUIL,473.45,Empleado,43,9413.78,60,798,9251.17,5,2,15 de March de 2025,Call Center,,Ecuador,Rechazado,0
+SOL-10286,CLI-1784,Teófila Aznar Maestre,36,M,Ibarra,804.61,,217,3537.76,24,750,12521.13,3,1,2025-09-14,app movil,android,Ecuador,Aprobado,0
+SOL-10587,CLI-4710,Ricarda Benítez Paniagua,28,Femenino,Ibarra,1657.21,independiente,86,9310.11,36,332,9362.54,5,1,2025-01-02,APP,android,Ecuador,aprobado,0
+SOL-10161,CLI-1408,Adrián Paulino Castañeda Lledó,70,M,Manta,1876.88,independiente,189,451.93,24,474,14326.34,2,2,2024-08-05,web,,Ecuador,aprobado,0
+SOL-10047,CLI-2246,Ileana Reig Solera,49,Femenino,GUAYAQUIL,956.22,,107,1254.17,12,801,4196.1,5,0,2026-03-26,,android,Ecuador,Aprobado,0
+SOL-10232,CLI-3021,Xavier Valdés Macías,33,,quito,No disponible,Empleado,62,2295.81,60,512,9799.15,0,0,,App,Desconocido,Ecuador,Pendiente,0
+SOL-10324,CLI-1032,Manola Armengol-Sandoval,70,Masculino,Ibarra,2056.15,,159,9431.91,48,502,8061.5,3,2,28 de April de 2026,Sucursal,IOS,Ecuador,Rechazado,0
+SOL-10623,CLI-2772,Luis Cal Estévez,56,F,GUAYAQUIL,747.85,Desempleado,197,3032.87,36,775,5122.24,6,1,03-27-2025,web,Desktop,Ecuador,RECHAZADO,0
+SOL-10143,CLI-1397,Modesta León,19,m,Guayaquil,,independiente,120,1872.91,60,696,5541.02,3,0,26/09/2025,,android,Ecuador,RECHAZADO,0
+SOL-10551,CLI-3201,Charo del Malo,36,f,Manta,2255.52,Independiente,221,1059.02,60,499,11638.67,1,2,12 de December de 2025,web,IOS,Ecuador,RECHAZADO,0
+SOL-10063,CLI-1178,Hugo Yáñez Molina,44,Femenino,quito,2903.44,estudiante,59,2572.48,48,498,14766.6,3,3,17/05/2026,Call Center,IOS,Ecuador,Rechazado,0
+SOL-10352,CLI-1034,Sebastian Flores Chacón,67,f,,4487.05,Empleado,120,1246.19,24,532,3505.85,4,3,04-02-2026,,Desconocido,Ecuador,Aprobado,0
+SOL-10533,CLI-1455,Reyes Paredes Vilanova,39,Masculino,Ambato,3593.05,Jubilado,78,3619.7,48,405,3154.38,5,0,06/06/2026,Sucursal,iOS,Ecuador,Rechazado,0
+SOL-10490,CLI-1942,Jorge Morales Hurtado,58,Femenino,Quito,,independiente,167,2489.59,12,375,10989.58,0,0,07 de July de 2024,Sucursal,Android,Ecuador,Rechazado,0
+SOL-10028,CLI-2106,Néstor Lasa Nieto,57,,quito,2185.86,empleado,82,809.26,48,549,10022.83,2,0,22/09/2024,web,iOS,Ecuador,Pendiente,0
+SOL-10435,CLI-4849,Lola Solera Valenzuela,26,,Ambato,4308.24,,166,8595.4,48,497,12690.54,5,0,06/04/2026,Web,IOS,Ecuador,Pendiente,0
+SOL-10231,CLI-3701,Aitor Severino Priego Llobet,73,Masculino,Cuenca,No disponible,empleado,79,8124.1,24,420,52.99,6,0,2024-07-08,,android,Ecuador,Aprobado,0
+SOL-10006,CLI-3199,Eligia Cortés Garrido,66,f,Guayaquil,1603.35,Empleado,184,2577.51,24,819,4476.67,5,1,06-02-2026,app movil,iOS,Ecuador,RECHAZADO,0
+SOL-10273,CLI-2941,María Fernanda Colomer Bastida,40,M,Manta,$1175.15,Jubilado,213,3194.03,36,634,7952.49,4,1,03/10/2024,APP,IOS,Ecuador,Rechazado,0
+SOL-10080,CLI-2388,Galo Ramos Cortes,53,Masculino,Ambato,2870.1,Empleado,11,3664.76,60,767,2096.71,4,0,2026-05-10,Call Center,IOS,Ecuador,RECHAZADO,0
+SOL-10454,CLI-2751,Nacio Goñi-Aznar,47,Otro,quito,513.46,independiente,22,2429.31,60,824,13498.69,2,0,,Call Center,iOS,Ecuador,aprobado,0
+SOL-10169,CLI-3243,Coral Renata Yáñez Pintor,73,Femenino,Ambato,1259.82,EMPLEADO,235,1101.56,36,418,8742.09,5,2,28/05/2025,APP,,Ecuador,RECHAZADO,0
+SOL-10217,CLI-4643,Fortunata del Torrents,55,m,,1631.24,Jubilado,187,3651.49,24,799,8643.49,0,1,01 de April de 2026,APP,Android,Ecuador,aprobado,0
+SOL-10262,CLI-2317,Bartolomé Amigó Catalá,71,Femenino,,586.9,Independiente,30,4836.1,36,468,610.48,0,3,,Call Center,,Ecuador,Aprobado,0
+SOL-10259,CLI-3706,Claudia de Guijarro,30,Otro,Guayaquil,2985.53,Independiente,226,1433.97,24,325,7338.49,0,3,02-28-2025,APP,android,Ecuador,Aprobado,0
+SOL-10471,CLI-3420,Bruno Canales-Heras,31,f,Ibarra,3799.88,independiente,200,611.48,60,697,4311.28,4,1,27/12/2024,APP,iOS,Ecuador,Rechazado,0
+SOL-10134,CLI-3350,Marcio Carbó Céspedes,45,Otro,quito,520.88,Desempleado,90,1009.99,48,452,3686.77,2,1,08/06/2026,,Android,Ecuador,Rechazado,0
+SOL-10617,CLI-1481,Nilo Córdoba Hervás,62,Masculino,quito,1602.9,empleado,153,939.78,12,503,5809.56,5,3,15 de July de 2025,Sucursal,,Ecuador,Rechazado,0
+SOL-10508,CLI-3993,Jonatan Angulo Madrid,43,Femenino,Manta,3365.83,estudiante,173,644.15,24,819,4040.41,4,1,04-27-2025,App,iOS,Ecuador,RECHAZADO,0
+SOL-10639,CLI-3093,Carmela Ruth Martorell Blazquez,40,,Quito,4229.31,estudiante,17,1536.21,60,0,10666.58,2,0,2025-08-20,app movil,Desconocido,Ecuador,aprobado,0
+SOL-10375,CLI-4077,Obdulia Tejero Esparza,70,,Cuenca ,3213.36,,105,647.24,36,317,14543.96,5,0,16 de February de 2026,,iOS,Ecuador,RECHAZADO,0
+SOL-10515,CLI-2461,Jeremías del Cortina,17,m,Sto. Domingo,,Empleado,136,1455.14,60,396,7401.75,2,0,20/01/2025,app movil,,Ecuador,RECHAZADO,0
+SOL-10244,CLI-3420,Flor Juárez Piquer,45,Otro,Cuenca ,3628.04,Jubilado,44,956.6,60,798,4880.67,0,3,24/02/2026,Sucursal,Desktop,Ecuador,RECHAZADO,0
+SOL-10318,CLI-2293,Marcial Coronado Benet,53,Otro,quito,879.46,EMPLEADO,114,482.27,24,780,3295.54,5,0,11-09-2024,,iOS,Ecuador,aprobado,0
+SOL-10294,CLI-3345,Artemio Garrido Peñalver,24,F,Ibarra,3167.96,,207,2899.95,36,672,9531.66,6,0,,app movil,Desktop,Ecuador,RECHAZADO,0
+SOL-10457,CLI-2228,Hortensia Cordero Rey,43,Masculino,Ambato,3851.06,estudiante,219,858.35,12,489,3610.23,4,2,19 de November de 2025,app movil,android,Ecuador,Aprobado,0
+SOL-10359,CLI-3623,Inmaculada Milla Jara,42,Otro,Ambato,$2026.36,Independiente,181,3504.35,48,796,9855.34,5,1,2025-02-20,,,Ecuador,Rechazado,0
+SOL-10489,CLI-2238,Sosimo Miguel Vera Flor,51,Femenino,Cuenca,3836.41,Jubilado,74,3097.8,24,,300.43,4,0,09-10-2024,Call Center,,Ecuador,Pendiente,0
+SOL-10584,CLI-2292,Carla Chamorro Leiva,55,,quito,1788.35,empleado,25,1260.33,24,467,9274.33,1,1,02-08-2025,,Desconocido,Ecuador,Aprobado,0
+SOL-10061,CLI-2365,Heriberto de Hoz,23,Masculino,Loja,1671.95,independiente,33,819.07,48,636,12434.38,5,2,08-30-2025,Web,Desconocido,Ecuador,Pendiente,0
+SOL-10270,CLI-2214,Encarna Sedano,45,Femenino,,3207.13,EMPLEADO,188,12781.29,36,352,9287.0,2,0,2025-10-16,Web,IOS,Ecuador,Rechazado,0
+SOL-10632,CLI-2472,Nélida de Diaz,42,Otro,Ibarra,2225.84,independiente,65,2093.28,36,790,8782.42,4,3,06-25-2025,app movil,,Ecuador (VPN),Aprobado,1
+SOL-10035,CLI-3472,Ani Boada-Torre,34,Femenino,Sto. Domingo,3827.43,Empleado,195,2261.0,24,781,4172.35,4,1,19 de February de 2026,,Android,Ecuador,Pendiente,0
+SOL-10113,CLI-3891,Javiera Jove Huertas,69,F,Sto. Domingo,,empleado,29,1104.33,48,441,7300.05,4,2,08 de March de 2026,Sucursal,IOS,Ecuador,Rechazado,0
+SOL-10290,CLI-2567,Raquel de Lastra,56,Masculino,Manta,-2950.06,Independiente,169,9736.74,24,600,3924.98,2,2,,App,,Ecuador (VPN),aprobado,1
+SOL-10610,CLI-4421,Consuela Salinas-Perelló,72,,,1349.24,Empleado,73,3247.51,48,467,10892.98,4,0,14/04/2025,web,android,Ecuador,Pendiente,0
+SOL-10363,CLI-3452,Silvestre Conde,49,F,Ibarra,2598.34,Desempleado,64,3877.7,48,436,13259.51,2,3,08 de August de 2025,,Android,Ecuador,RECHAZADO,0
+SOL-10329,CLI-1582,Alex Huguet Río,68,M,Manta,4045.13,estudiante,0,2781.08,12,727,6785.62,2,3,27/06/2026,,,Ecuador,Rechazado,0
+SOL-10579,CLI-4121,Manuela Vila Raya,58,F,Quito,3060.34,independiente,72,5399.34,24,802,14819.66,3,1,2024-09-16,,IOS,Ecuador,Rechazado,0
+SOL-10348,CLI-2549,Cruz Haro Mendoza,62,Otro,Sto. Domingo,$1402.65,Jubilado,218,1031.07,12,586,14525.76,3,0,08 de June de 2026,Web,,Peru,RECHAZADO,0
+SOL-10215,CLI-1683,Anselmo Soria Landa,68,Otro,GUAYAQUIL,1783.8,estudiante,238,3360.1,36,680,12392.32,2,1,2025-03-07,app movil,android,Ecuador,Pendiente,0
+SOL-10381,CLI-3935,Isa Páez Sabater,31,Femenino,Ibarra,3416.47,Desempleado,219,5098.2,24,322,10168.48,2,3,17/04/2026,Call Center,Android,Ecuador,Pendiente,0
+SOL-10519,CLI-4499,Concha de Chaves,65,Masculino,Sto. Domingo,1999.25,Independiente,161,2799.71,60,678,6772.49,3,0,2025-07-06,Sucursal,IOS,Ecuador,aprobado,0
+SOL-10487,CLI-3705,Chucho Ramirez,25,Otro,Ibarra,925.04,estudiante,153,1367.38,36,819,6135.09,4,3,27/02/2026,APP,Desconocido,Ecuador,aprobado,0
+SOL-10116,CLI-4531,Esther Berrocal Chacón,70,F,,3728.74,EMPLEADO,220,4831.96,24,511,8551.12,4,0,10-21-2024,Sucursal,Desktop,Ecuador,Pendiente,0
+SOL-10511,CLI-3187,Florina Bernat Cañas,22,M,Ambato,4030.91,Jubilado,94,12292.95,60,707,2071.2,1,0,2025-10-23,APP,android,Ecuador,Rechazado,0
+SOL-10540,CLI-2907,Lope Giralt Coello,46,Masculino,Sto. Domingo,1754.76,EMPLEADO,116,6278.79,48,,3378.45,3,0,14/07/2024,app movil,IOS,Ecuador,RECHAZADO,0
+SOL-10621,CLI-2959,Gertrudis Andres Figueroa,48,Masculino,Machala,2667.43,Independiente,37,9581.61,12,789,8492.36,1,2,,Call Center,,Ecuador,Pendiente,0
+SOL-10090,CLI-3936,Fabiola Mir Rubio,55,,,628.11,independiente,116,10849.51,36,322,11187.07,4,0,2025-09-19,Call Center,Desktop,Ecuador,Aprobado,0
+SOL-10565,CLI-4880,Áurea Benítez Martínez,75,,Machala,3287.29,independiente,55,2230.72,36,638,7619.32,3,4,,web,,Rusia,Pendiente,1
+SOL-10564,CLI-3939,Adriana Galan Cobos,62,Femenino,quito,1503.45,estudiante,158,4629.32,24,322,863.19,2,1,,Sucursal,Android,Ecuador,Pendiente,0
+SOL-10473,CLI-1070,Coral Guerrero,-5,f,quito,3014.75,independiente,14,808.46,60,621,3870.1,6,0,10/08/2024,,iOS,Ecuador,Rechazado,0
+SOL-10368,CLI-3264,Iker Aarón Osorio Hernandez,64,Otro,quito,1653.97,,155,2863.99,48,500,192.51,4,2,24 de August de 2025,web,android,Ecuador,aprobado,0
+SOL-10196,CLI-4419,Eliseo Castro,33,f,Cuenca,,Independiente,173,9164.25,60,343,4731.25,4,3,12/05/2026,,iOS,Ecuador,Pendiente,0
+SOL-20910,,,,,,,,,,,,,,,,,,,,
+SOL-10339,CLI-1267,Liliana Paredes Alfaro,55,F,Cuenca,1464.46,Jubilado,225,1953.48,12,845,13246.53,0,1,25 de March de 2025,App,,Ecuador,aprobado,0
+SOL-10499,CLI-1986,Angélica Caparrós Barrio,53,Otro,Ibarra,2345.36,,81,1923.22,36,446,7351.4,6,0,28 de February de 2026,Web,IOS,Colombia,Pendiente,0
+SOL-10197,CLI-4072,Vanesa Tormo Carrión,54,Otro,quito,$4252.58,EMPLEADO,100,1082.88,12,830,177.3,1,1,07-24-2024,Web,Desktop,Ecuador,Rechazado,0
+SOL-10110,CLI-1617,Martirio del Salas,40,,Guayaquil,1611.27,Independiente,29,1039.33,36,766,5224.5,0,1,23 de September de 2025,,Desktop,Ecuador,Aprobado,0
+SOL-10514,CLI-4826,Nerea Rodrigo Pinilla,63,Femenino,GUAYAQUIL,3732.62,estudiante,111,1831.88,48,771,10295.81,2,1,24/02/2026,APP,,Ecuador,Pendiente,0
+SOL-10072,CLI-3044,Plinio Novoa,51,F,Manta,3577.35,Jubilado,156,7840.57,24,375,6676.67,0,3,28 de November de 2024,web,Desconocido,Ecuador,RECHAZADO,0
+SOL-10073,CLI-4650,José Antonio Torres-Iglesias,37,Masculino,,1882.12,Jubilado,202,7284.11,60,677,1946.57,0,0,25/04/2026,Call Center,Desconocido,Ecuador,aprobado,0
+SOL-10306,CLI-3921,Andrea Puerta Arnal,42,m,Guayaquil,No disponible,EMPLEADO,238,3896.09,60,-1,4537.61,3,2,17/05/2025,Sucursal,IOS,Ecuador,Pendiente,0
+SOL-10396,CLI-3689,Quirino Estrada Valera,34,Otro,Loja,1627.07,Desempleado,137,1036.6,48,465,87.15,6,2,2025-07-16,Web,iOS,Ecuador,aprobado,0
+SOL-10226,CLI-4054,Vinicio Sola Maestre,70,m,Cuenca,,Desempleado,6,2284.48,60,536,391.27,0,2,,,iOS,Ecuador,aprobado,0
+SOL-10459,CLI-1648,Claudia Morcillo,40,Femenino,Loja,4100.46,,16,1040.75,60,647,2100.59,6,3,02 de July de 2026,APP,android,Colombia,aprobado,0
+SOL-10332,CLI-4018,Felipe Tamarit,56,M,quito,$3934.09,independiente,46,10269.53,36,393,2522.34,1,0,19/10/2025,Web,iOS,Ecuador,Rechazado,0
+SOL-10613,CLI-3142,Bautista Cifuentes Olivé,60,Femenino,Cuenca ,1839.65,Independiente,57,7698.24,24,300,11999.03,3,0,2025-02-15,APP,iOS,Ecuador,Rechazado,0
+SOL-10445,CLI-2514,Marcial Verdú,24,Otro,Ibarra,4204.88,Jubilado,103,2223.65,48,831,9695.17,0,0,2025-04-22,App,Android,Ecuador,Aprobado,0
+SOL-10135,CLI-3632,Luis Miguel Amigó Mesa,74,Femenino,Sto. Domingo,4475.76,Empleado,97,3275.62,48,652,5825.72,1,0,27/08/2025,app movil,Android,Ecuador,Aprobado,0
+SOL-10118,CLI-1309,Eusebia Solano Ricart,58,F,Machala,2514.02,EMPLEADO,116,3398.35,12,769,12751.59,6,1,17/08/2024,app movil,android,Ecuador,Pendiente,0
+SOL-10192,CLI-4812,Felix Carmona-Quintero,69,Femenino,Quito,3614.23,Jubilado,157,521.95,12,461,5991.51,5,2,27/03/2026,app movil,IOS,Rusia,RECHAZADO,1
+SOL-10016,CLI-3293,Marco Donoso Hierro,74,Masculino,Ambato,3944.88,Desempleado,225,1194.63,36,721,12161.24,2,0,,Web,android,Ecuador,Rechazado,0
+SOL-10214,CLI-4417,Adoración Cobos Redondo,37,Femenino,GUAYAQUIL,798.19,,98,11627.51,60,483,11191.63,6,2,03-31-2026,web,Desconocido,Peru,aprobado,0
+SOL-10274,CLI-1928,Melisa Marisol Morcillo Piquer,48,m,,3866.61,empleado,116,1184.72,36,486,10392.89,5,3,2026-06-30,Sucursal,iOS,Ecuador,RECHAZADO,0
+SOL-10201,CLI-4803,José Manuel Patricio Llano Ribes,39,Otro,Guayaquil,724.36,EMPLEADO,81,2284.31,48,577,14081.55,5,1,03-05-2026,,android,Ecuador,Rechazado,0
+SOL-10032,CLI-1816,María Bartolomé Plaza,61,Masculino,,2707.64,Jubilado,30,5712.64,60,531,13627.57,2,3,01-11-2026,Call Center,Desktop,Ecuador,RECHAZADO,0
+SOL-10367,CLI-3361,Maximiano Villalba Herranz,46,Femenino,Manta,3935.94,EMPLEADO,101,8612.4,60,743,11903.38,0,3,10/12/2025,Call Center,,Ecuador,RECHAZADO,0
+SOL-10495,CLI-2215,Gerónimo Marino Giner Gilabert,25,m,Ibarra,4180.08,,82,3376.57,24,444,12042.21,5,0,06-02-2026,APP,android,Ecuador,Rechazado,0
+SOL-10222,CLI-4711,Gastón Glauco Rosa Coello,60,m,Cuenca,646.45,empleado,13,463.32,36,,13011.16,5,1,2024-12-28,Call Center,IOS,Ecuador,Pendiente,0
+SOL-10358,CLI-3202,Guadalupe de Perera,36,F,Ibarra,3378.8,estudiante,105,9484.92,36,378,11692.66,3,1,2024-12-14,APP,iOS,Ecuador,Aprobado,0
+SOL-10577,CLI-1179,Artemio Adadia Mendez,0,f,Manta,4179.54,Jubilado,230,5260.07,36,817,2915.09,5,2,24/05/2025,App,,Ecuador,RECHAZADO,0
+SOL-10529,CLI-2881,Araceli Farré Aznar,54,M,Ibarra,3867.56,,229,1568.14,12,708,7611.25,2,1,01-15-2025,Web,,Ecuador,RECHAZADO,0
+SOL-10224,CLI-4647,Tomasa Francisca Hernando Valenciano,70,m,Ambato,1022.0,Desempleado,22,12842.42,60,532,6396.97,2,1,01/05/2026,,IOS,Colombia,Rechazado,0
+SOL-20280,,,,,,,,,,,,,,,,,,,,
+SOL-10276,CLI-2210,Ligia Ros Cabezas,48,Masculino,,2717.45,estudiante,86,10080.56,24,419,12613.15,3,0,2026-02-02,web,Android,Ecuador,RECHAZADO,0
+SOL-10251,CLI-1337,Hortensia de Ribera,26,m,Manta,943.41,empleado,3,1264.05,24,757,11737.92,1,1,2025-10-24,App,Desktop,Ecuador,RECHAZADO,0
+SOL-10603,CLI-4558,Macaria Arco Palomares,34,M,Sto. Domingo,$3202.44,Jubilado,122,1805.12,24,440,11339.45,5,4,2025-11-27,APP,android,Ecuador (VPN),Aprobado,1
+SOL-10342,CLI-3935,Cloe Font Mesa,20,F,,922.9,estudiante,14,4631.58,12,353,1437.45,6,1,2024-09-14,App,android,Ecuador,RECHAZADO,0
+SOL-10550,CLI-3684,Abraham Reina Albero,67,f,Loja,4486.41,EMPLEADO,206,10825.26,12,650,11729.31,3,2,2024-07-15,Sucursal,Android,Ecuador,Aprobado,0
+SOL-10200,CLI-3283,Jerónimo Carpio Correa,69,M,Machala,897.07,Jubilado,147,9698.16,36,663,11621.17,3,0,02/07/2025,APP,android,Ecuador,Rechazado,0
+SOL-10555,CLI-3498,Dolores Pablo,47,f,Manta,$4292.9,empleado,28,5669.96,48,598,14964.08,4,1,,web,iOS,Peru,aprobado,0
+SOL-10075,CLI-3125,Regina Castrillo Juárez,75,F,Manta,1204.84,empleado,32,9373.71,24,457,13530.01,2,3,10-29-2024,App,,Ecuador,Aprobado,0
+SOL-10104,CLI-4210,Daniel Samuel Flor Colom,58,Otro,Loja,-1878.87,empleado,113,1881.79,12,491,7686.61,0,0,2024-07-20,web,IOS,Ecuador,Pendiente,0
+SOL-20604,,,,,,,,,,,,,,,,,,,,
+SOL-10141,CLI-2537,Adora Rivera Trillo,24,Femenino,Cuenca,2250.28,Empleado,75,2561.33,12,650,10979.78,4,4,18/09/2024,,Desconocido,Nigeria,aprobado,1
+SOL-10266,CLI-3356,Desiderio Madrigal Gordillo,44,Otro,Ambato,701.47,Empleado,227,1906.73,48,482,10797.32,5,0,18/08/2024,app movil,Desktop,Ecuador,Aprobado,0
+SOL-10618,CLI-4545,Candela del Roldan,61,,Ambato,3326.69,Independiente,25,1196.14,60,324,10483.82,0,2,06-03-2026,web,Desconocido,Ecuador,aprobado,0
+SOL-10326,CLI-4018,Felipe Tamarit,18,Femenino,,3457.61,,216,3059.04,60,443,3714.5,2,1,07-04-2025,app movil,,Ecuador,Aprobado,0
+SOL-10543,CLI-1498,Domitila Torres Trujillo,28,F,quito,3436.63,EMPLEADO,106,975.93,36,789,6854.31,0,1,,Call Center,android,Ecuador,Pendiente,0
+SOL-10189,CLI-4591,Eva Montesinos Calvo,52,Femenino,Quito,3307.51,,30,5809.09,36,718,9773.64,2,0,,Call Center,IOS,Ecuador,aprobado,0
+SOL-10648,CLI-1862,Santos Gabaldón,33,Masculino,Quito,725.76,Independiente,37,7603.55,12,589,8689.05,5,1,11/02/2026,Call Center,Android,Peru,RECHAZADO,0
+SOL-10076,CLI-4158,Mamen Roma Agustí,54,Femenino,,2745.76,Empleado,127,10158.69,36,794,6091.39,3,0,22 de September de 2024,App,iOS,Ecuador,aprobado,0
+SOL-10074,CLI-4372,Arturo Roda Lloret,54,f,Sto. Domingo,704.08,,88,11559.18,24,432,831.19,0,1,2024-08-04,APP,iOS,Ecuador,Pendiente,0
+SOL-10642,CLI-1678,Sandra del Arnaiz,61,F,Sto. Domingo,2284.39,EMPLEADO,217,2261.63,60,638,2333.97,5,3,09 de January de 2026,APP,,Ecuador,Rechazado,0
+SOL-10106,CLI-3030,Charo Plana-Urrutia,56,,Guayaquil,$955.51,independiente,85,6108.15,36,750,12892.63,4,0,21/04/2025,web,IOS,Ecuador,aprobado,0
+SOL-10449,CLI-2296,Isidro Ricart Tomé,51,M,Cuenca,4412.41,Desempleado,91,1696.55,48,668,13809.71,3,2,2025-02-20,APP,Desconocido,Ecuador,RECHAZADO,0
+SOL-10369,CLI-2528,Nazaret Boada Zabaleta,42,F,Machala,4028.5,Independiente,98,977.69,48,561,5228.68,5,1,15 de June de 2026,web,Desconocido,Ecuador,aprobado,0
+SOL-10212,CLI-1777,Jose Miguel Arco Cases,51,Masculino,Cuenca ,1560.83,EMPLEADO,28,734.01,24,482,7280.55,0,0,07-05-2025,Call Center,Desconocido,Ecuador,RECHAZADO,0
+SOL-10008,CLI-4804,María Del Carmen Lamas Aroca,52,Femenino,Ibarra,1678.04,EMPLEADO,112,7587.21,24,365,3451.72,1,0,2025-12-18,App,iOS,Ecuador,Pendiente,0
+SOL-10057,CLI-4881,Ambrosio Barrera,57,f,Guayaquil,,independiente,150,846.65,36,647,1145.69,5,0,12-31-2025,app movil,,Colombia,Rechazado,0
+SOL-10108,CLI-4259,Chus del Ayllón,68,,Cuenca,2996.68,Desempleado,183,4647.93,60,790,13852.44,6,2,14/08/2025,App,,Ecuador,RECHAZADO,0
+SOL-10002,CLI-1653,Nilo Bonet Roca,62,m,Cuenca,1282.79,Independiente,23,3716.99,60,570,8043.42,3,0,07-26-2024,APP,,Ecuador,RECHAZADO,0
+SOL-10058,CLI-1599,Amador Tapia Valverde,34,Masculino,,No disponible,estudiante,118,9379.63,60,630,2264.36,0,1,06/05/2026,APP,,Ecuador,Pendiente,0
+SOL-10409,CLI-3305,Bernardino Molins Benavent,75,Masculino,Manta,1760.2,Empleado,139,9492.3,12,405,13296.85,3,0,2025-05-27,app movil,Android,Ecuador,Rechazado,0
+SOL-10353,CLI-1769,Miguel Ángel Terrón Pera,45,Otro,Ambato,2198.59,Empleado,95,1022.23,12,811,5097.33,3,1,12 de August de 2025,Call Center,,Ecuador,Pendiente,0
+SOL-10576,CLI-3039,Goyo Correa Porras,30,M,quito,,Empleado,213,964.01,12,547,11075.19,3,1,,App,Desconocido,Ecuador,Rechazado,0
+SOL-10203,CLI-1537,Liliana Piedad Cerezo Baños,51,M,Quito,3120.55,EMPLEADO,221,12739.43,60,755,8089.31,4,1,20/01/2025,Call Center,IOS,Ecuador,Pendiente,0
+SOL-10037,CLI-3041,Caridad del Álamo,58,M,Ambato,1494.93,empleado,112,7588.56,60,545,205.12,3,0,2026-04-01,Web,android,Colombia,Rechazado,0
+SOL-10024,CLI-4861,René Arévalo Canals,40,Otro,Machala,2606.7,Jubilado,124,5471.28,48,644,10862.72,6,1,2024-10-22,App,android,Peru,Aprobado,0
+SOL-10485,CLI-1766,Fito Cámara Segarra,64,Masculino,Ambato,-3002.57,,219,1351.92,12,802,2671.73,3,2,19/10/2025,Call Center,Desconocido,Colombia,Pendiente,0
+SOL-10411,CLI-2741,Micaela de Castelló,27,m,Cuenca ,3752.01,Independiente,69,3819.46,12,302,11666.76,1,0,2025-05-15,Call Center,android,Ecuador,Aprobado,0
+SOL-10625,CLI-2685,Lucía Millán Pont,35,Otro,Sto. Domingo,3102.36,Desempleado,205,1951.97,36,628,7801.69,0,2,22 de September de 2025,APP,Desconocido,Ecuador,Pendiente,0
+SOL-10568,CLI-2800,Gregorio Tomas,37,f,Guayaquil,4318.42,estudiante,46,2816.36,24,683,10595.51,6,0,03-12-2025,Sucursal,,Ecuador,RECHAZADO,0
+SOL-10322,CLI-4150,Jerónimo Jaime Arellano Barberá,145,f,Manta,-2470.59,EMPLEADO,183,3455.33,24,455,11808.24,1,3,29/03/2025,Call Center,android,Ecuador,Pendiente,0
+SOL-10476,CLI-4309,Judith Flores Madrigal,38,f,Ambato,1953.24,Desempleado,97,1025.66,24,815,11009.27,4,2,2025-02-22,App,IOS,Ecuador,RECHAZADO,0
+SOL-10152,CLI-3432,Manu Hernandez Tamayo,56,F,quito,661.73,EMPLEADO,220,1950.69,60,546,12035.46,4,1,18 de October de 2025,web,Desconocido,Ecuador,aprobado,0
+SOL-10536,CLI-1437,Goyo Joan Palomar Mendez,22,f,Ibarra,2366.7,estudiante,11,5875.6,48,555,5625.28,0,0,10 de January de 2025,web,Desktop,Ecuador,Pendiente,0
+SOL-10343,CLI-2391,Silvia de Navarro,59,M,quito,2520.57,Independiente,-12,909.72,24,429,6315.11,5,1,04/04/2026,Sucursal,iOS,Ecuador,Aprobado,0
+SOL-10066,CLI-4179,Adalberto Sedano Cabo,36,F,Quito,1377.6,estudiante,16,9109.56,12,827,4369.08,0,1,25/08/2024,app movil,IOS,Peru,Aprobado,0
+SOL-10130,CLI-1428,Raquel de Castellanos,75,Otro,Ibarra,4071.87,Independiente,148,1154.89,48,376,9936.66,1,0,25/11/2024,APP,,Ecuador,Pendiente,0
+SOL-10098,CLI-4365,Evaristo Madrid Gallo,49,,quito,1089.76,Desempleado,35,7788.95,60,360,1114.96,6,2,2025-05-13,App,android,Colombia,Rechazado,0
+SOL-10470,CLI-2230,Cosme Linares,70,M,Manta,3903.75,Empleado,220,7342.13,24,688,783.89,2,0,05-16-2026,web,Android,Ecuador,Pendiente,0
+SOL-10328,CLI-2985,Aroa Nuñez Blasco,63,F,Ibarra,1271.83,Desempleado,143,912.51,48,412,604.23,1,0,06/07/2025,APP,Desktop,Ecuador,Aprobado,0
+SOL-10424,CLI-1866,Jose Ramón Manjón Matas,73,Otro,Manta,1433.49,Desempleado,17,815.47,48,729,3891.71,6,0,2025-06-21,Call Center,Desktop,Ecuador,Rechazado,0
+SOL-10001,CLI-3619,Albano Llopis Hierro,25,m,Ambato,1315.16,,22,455.96,24,,2982.56,5,2,12-13-2024,Call Center,iOS,Ecuador,Aprobado,0
+SOL-10255,CLI-4422,Claudio Carvajal-Sanz,31,F,Ibarra,-4326.96,Desempleado,96,1258.4,24,559,1135.71,3,0,,Call Center,Desconocido,Ecuador,Pendiente,0
+SOL-10310,CLI-3418,Anunciación Rueda Camacho,24,Masculino,Quito,732.36,estudiante,116,2275.36,12,637,14263.44,2,2,27 de December de 2024,Sucursal,iOS,Colombia,Pendiente,0
+SOL-10131,CLI-2113,María Corominas Gómez,32,Femenino,Cuenca,3597.74,Desempleado,27,8204.91,12,848,6778.76,3,0,,Web,Android,Peru,Pendiente,0
+SOL-10388,CLI-3466,María Luisa Royo Llobet,53,f,Manta,926.82,Independiente,140,5799.54,24,709,10147.89,5,0,10-13-2025,app movil,Android,Ecuador,Rechazado,0
+SOL-10453,CLI-2785,Horacio Mena Amor,61,Masculino,Sto. Domingo,3547.41,independiente,141,1868.48,60,772,13138.82,3,0,2025-09-12,,Desconocido,Peru,Pendiente,0
+SOL-10316,CLI-4179,Miguel Ibán Ibáñez Saura,0,M,Ambato,2372.58,Jubilado,111,9763.66,36,774,1746.88,1,2,16 de December de 2025,,android,Ecuador,RECHAZADO,0
+SOL-10128,CLI-1319,Agustina Azorin Olmo,54,M,Cuenca,1315.06,Empleado,102,9971.3,36,635,5533.79,2,1,,APP,Desconocido,Ecuador,Pendiente,0
+SOL-10501,CLI-2631,Isaura Carnero,20,m,Manta,2963.61,Empleado,220,10391.14,48,802,9713.23,4,4,2025-11-12,App,Desktop,Nigeria,Rechazado,1
+SOL-10148,CLI-1933,Susanita Morcillo Espada,26,,,3785.88,independiente,154,1615.03,48,796,12315.26,4,3,2025-06-24,Web,Desktop,Ecuador,Rechazado,0
+SOL-10297,CLI-2680,Amarilis Nereida Bilbao Lladó,38,F,Sto. Domingo,1234.59,empleado,165,1593.52,12,453,12408.43,3,1,05-22-2025,Call Center,android,Ecuador,Rechazado,0
+SOL-10447,CLI-1284,Lorenza Saura Company,28,,Cuenca,4345.2,independiente,85,2505.01,24,309,8747.38,3,3,2025-09-19,,Android,Ecuador,RECHAZADO,0
+SOL-10366,CLI-3579,Jesusa Ana Belén Cantero Valero,18,,Guayaquil,No disponible,Desempleado,240,775.58,60,509,10874.84,2,0,12 de September de 2025,app movil,iOS,Ecuador,Rechazado,0
+SOL-10580,CLI-3994,Galo Buendía Morata,29,Otro,Manta,4015.94,Empleado,110,917.02,48,532,9397.5,1,1,26/03/2026,Call Center,android,Ecuador,aprobado,0
+SOL-10484,CLI-3076,Teodoro Varela Solé,39,F,Ibarra,3220.54,Empleado,110,10270.11,60,336,3688.71,4,1,,app movil,Desconocido,Ecuador,Rechazado,0
+SOL-10177,CLI-3059,Andrea Guillen Lamas,24,m,Cuenca ,754.67,estudiante,97,544.8,60,525,11962.27,4,0,29 de January de 2026,Sucursal,Desktop,Colombia,Pendiente,0
+SOL-10542,CLI-2110,Crescencia Pino Hoyos,32,Femenino,,1856.91,estudiante,31,4550.85,24,689,2979.57,6,1,07-02-2025,Web,Android,Ecuador,RECHAZADO,0
+SOL-10271,CLI-1977,Américo Tejero Querol,52,,Ibarra,4250.51,Jubilado,192,1542.28,36,815,950.54,2,1,10/05/2025,Web,android,Peru,RECHAZADO,0
+SOL-10099,CLI-4861,René Arévalo Canals,18,,Loja,647.85,estudiante,168,556.44,48,-1,14662.19,0,1,,Call Center,,Ecuador,Aprobado,0
+SOL-10538,CLI-2479,Josefa Cabello Soria,75,Femenino,Cuenca,1717.2,EMPLEADO,85,2004.29,12,443,5944.62,3,3,2026-01-10,App,IOS,Ecuador,aprobado,0
+SOL-10614,CLI-1395,Rita Gabaldón Vázquez,70,M,Quito,1612.71,Independiente,17,855.01,36,-1,5816.21,1,0,21/06/2025,,Desconocido,Ecuador,aprobado,0
+SOL-10415,CLI-1050,Jordán de Sarabia,48,m,quito,2087.24,Empleado,73,626.23,12,,12490.2,5,1,05-21-2026,APP,IOS,Ecuador,aprobado,0
+SOL-10221,CLI-2531,Vito Alberto Arteaga Morata,27,F,Guayaquil,3432.28,Desempleado,222,1810.99,12,,3135.14,4,0,2026-02-04,APP,IOS,Ecuador,Aprobado,0
+SOL-10539,CLI-4931,Zoraida Frutos Peláez,50,f,,2609.12,EMPLEADO,162,900.9,60,415,12694.49,0,1,16/02/2025,app movil,,Peru,aprobado,0
+SOL-10122,CLI-4522,Julieta Andres Porcel,31,F,Cuenca,3485.03,independiente,89,3649.29,24,583,9014.99,5,1,05/03/2025,App,,Ecuador,Rechazado,0
+SOL-10620,CLI-1474,Mayte Espinosa Estrada,53,Femenino,Cuenca,1631.41,independiente,2,12152.35,12,837,132.86,6,0,14/10/2025,app movil,,Ecuador,Rechazado,0
+SOL-10253,CLI-3172,Concha Salcedo Sales,73,m,,2240.16,,174,1013.67,36,742,4088.86,2,0,,Web,Desktop,Ecuador,aprobado,0
+SOL-10097,CLI-3959,Nicolasa Dávila Mascaró,48,f,Ambato,1919.89,Jubilado,189,2242.65,60,727,3450.28,4,3,2025-04-25,,IOS,Peru,Pendiente,0
+SOL-10400,CLI-2962,Jaime Duque Salgado,21,M,Manta,851.23,EMPLEADO,182,3774.13,24,-1,3179.66,3,0,07-01-2026,Web,android,Ecuador,Pendiente,0
+SOL-10140,CLI-2308,Nadia Pellicer Bayón,28,F,Ibarra,3147.1,EMPLEADO,-12,1499.72,12,658,19.22,3,1,07 de July de 2025,Call Center,iOS,Ecuador,aprobado,0
+SOL-10268,CLI-2778,Lidia Giralt Aroca,55,Masculino,Cuenca ,4082.83,Empleado,10,9134.48,60,703,12319.37,3,1,2025-12-16,Web,IOS,Ecuador,Rechazado,0
+SOL-10377,CLI-1986,Ruy Flores Arnaiz,33,F,Guayaquil,2183.06,Desempleado,237,6032.62,24,563,10059.02,5,0,02-18-2025,,Android,Ecuador,Rechazado,0
+SOL-10438,CLI-3159,María Sosa Macias,31,m,Ibarra,2892.41,Independiente,146,5864.26,48,625,744.9,3,1,2025-07-30,APP,android,Ecuador,Rechazado,0
+SOL-10123,CLI-3087,Paloma Dalmau Solsona,30,m,Sto. Domingo,623.73,Jubilado,126,1649.75,60,372,14803.24,2,0,06/05/2026,Call Center,Desktop,Ecuador,aprobado,0
+SOL-10635,CLI-1765,Mar Vega Uría,33,f,Cuenca,3542.03,Empleado,128,528.76,24,349,3628.88,4,3,28/04/2025,APP,android,Ecuador,Aprobado,0
+SOL-10350,CLI-2544,Gerónimo Saez,54,f,Manta,2657.26,Independiente,75,2976.21,12,776,6767.27,3,1,05/06/2025,,Desktop,Ecuador,Rechazado,0
+SOL-10361,CLI-1199,Álvaro Severino Sureda Chamorro,67,Femenino,Ambato,1936.04,Independiente,4,517.42,24,364,11953.86,6,2,2026-01-08,Sucursal,Android,Ecuador,Pendiente,0
+SOL-10631,CLI-1591,Fátima Rocha-Estevez,63,Otro,Cuenca,3631.09,EMPLEADO,90,1778.96,24,688,364.14,4,0,23 de June de 2025,Web,android,Ecuador,aprobado,0
+SOL-10112,CLI-4081,Inmaculada Salmerón,63,F,Cuenca ,817.18,Desempleado,93,7564.66,48,840,5829.59,3,1,2026-04-19,web,Desktop,Ecuador,Rechazado,0
+SOL-10373,CLI-1680,Dalila Calleja Márquez,23,Otro,Guayaquil,1534.73,Jubilado,122,723.04,36,307,627.89,1,1,,App,android,Ecuador,aprobado,0
+SOL-10612,CLI-3349,Jose Antonio Calvo Marqués,26,Femenino,Ibarra,2025.04,Independiente,128,9415.26,12,560,2470.53,1,2,03 de May de 2025,web,android,Ecuador,RECHAZADO,0
+SOL-10644,CLI-1332,Eustaquio de Sandoval,33,,Sto. Domingo,671.91,Empleado,111,4808.09,48,331,4620.11,3,1,11/01/2025,app movil,android,Ecuador,Pendiente,0
+SOL-10054,CLI-3878,Yaiza Barral Cózar,66,f,Loja,425.03,independiente,17,468.35,60,520,2361.14,2,2,06/04/2025,Web,Android,Ecuador,Aprobado,0
+SOL-10495,CLI-2215,Gerónimo Marino Giner Gilabert,25,m,Ibarra,4180.08,,82,3376.57,24,444,12042.21,5,0,06-02-2026,APP,android,Ecuador,Rechazado,0
+SOL-10504,CLI-1747,José María Ribes Saura,64,f,Cuenca ,$2969.16,Desempleado,-12,3252.42,24,615,13522.19,1,2,,Sucursal,Desktop,Ecuador,Rechazado,0
+SOL-10433,CLI-2999,Aroa Alberola Luís,34,F,Guayaquil,2426.4,Jubilado,100,532.75,48,378,13345.7,5,1,,Sucursal,iOS,Ecuador,RECHAZADO,0
+SOL-10087,CLI-2879,Rolando Lorenzo Ortega,59,Masculino,Quito,3420.13,Jubilado,44,6153.98,60,635,2771.72,1,1,14/10/2025,app movil,Android,Ecuador,aprobado,0
+SOL-10527,CLI-2946,Manuela Cañete Pont,63,m,Cuenca,3449.31,Desempleado,155,5014.61,24,328,2225.45,0,0,27/12/2024,Call Center,android,Ecuador,Pendiente,0
+SOL-10629,CLI-4379,Ezequiel de España,42,M,Cuenca,773.83,empleado,207,798.78,48,526,13378.28,1,0,2025-04-01,App,iOS,Ecuador,RECHAZADO,0
+SOL-10127,CLI-2044,Eligia Robles Iniesta,67,F,Ambato,$3437.2,Empleado,62,3159.58,24,483,8292.97,5,2,05 de March de 2026,Call Center,iOS,Ecuador,Pendiente,0
+SOL-10488,CLI-2067,Eugenia Bolaños,21,Femenino,Loja,$3008.69,estudiante,104,1114.41,12,637,14254.18,0,3,22/04/2025,Web,,Ecuador,RECHAZADO,0
+SOL-10303,CLI-1336,Rodolfo Cervantes,25,Masculino,Cuenca ,3211.59,EMPLEADO,115,1004.27,60,635,6217.45,1,1,12/01/2026,app movil,Android,Ecuador,RECHAZADO,0
+SOL-10596,CLI-1963,Filomena Carbonell Folch,51,Femenino,Machala,2411.08,Desempleado,86,5723.25,60,432,5600.32,5,3,2025-09-08,web,IOS,Ecuador,Aprobado,0
+SOL-10422,CLI-3637,Alondra Andrade-Bertrán,21,Femenino,Ibarra,$3767.06,Independiente,74,6207.66,24,697,5234.07,3,2,08-05-2024,,Android,Ecuador,aprobado,0
+SOL-10376,CLI-2426,Pepito Seco Arco,45,,Sto. Domingo,3914.11,independiente,75,1247.94,60,816,1306.35,6,2,02-02-2025,,iOS,Ecuador,aprobado,0
+SOL-10404,CLI-3853,Diego Uribe Amo,18,,GUAYAQUIL,3301.79,empleado,218,2241.72,24,529,586.36,1,0,2025-03-23,APP,,Colombia,Rechazado,0
+SOL-10208,CLI-1137,Paco Haro,30,F,GUAYAQUIL,3130.63,independiente,174,2890.33,12,833,4482.2,2,0,,app movil,Android,Ecuador,Pendiente,0
+SOL-10185,CLI-4346,Artemio Granados Almansa,25,Otro,,,estudiante,122,1158.9,48,322,8885.21,1,2,07-03-2026,App,IOS,Ecuador,Pendiente,0
+SOL-10605,CLI-2339,Merche Zoraida Blázquez Canales,75,F,Sto. Domingo,$1570.07,,197,945.08,48,409,3002.14,4,2,16 de January de 2026,APP,,Ecuador,RECHAZADO,0
+SOL-10592,CLI-2027,Bernarda Emperatriz Montes Font,70,Femenino,GUAYAQUIL,428.63,empleado,72,739.72,48,652,11334.75,3,0,18 de June de 2025,,Android,Peru,Aprobado,0
+SOL-10626,CLI-3652,Aurora Oliveras-Ortiz,69,Femenino,Machala,2385.81,estudiante,137,2284.79,36,427,14758.01,0,0,2026-03-13,APP,android,Ecuador,RECHAZADO,0
+SOL-10460,CLI-2932,Lucila Peñas Mir,56,m,Cuenca,3260.85,EMPLEADO,149,4635.14,12,462,7491.51,5,1,02/06/2026,app movil,,Ecuador,Aprobado,0
+SOL-10647,CLI-2087,Roque Graciano Valverde Álamo,26,m,Cuenca,3038.2,Independiente,127,1825.63,36,466,5381.28,4,0,12/10/2024,Call Center,android,Ecuador,Pendiente,0
+SOL-10302,CLI-4794,María Belén Ballesteros Aguilera,71,Otro,Guayaquil,3780.04,,16,11951.14,48,328,2756.09,3,3,29 de November de 2024,Sucursal,Android,Colombia,Pendiente,0
+SOL-10423,CLI-1817,Dulce Galvez-Riera,43,f,Loja,4485.4,estudiante,29,559.02,48,449,469.85,4,3,27/09/2025,App,,Ecuador,aprobado,0
+SOL-10036,CLI-1428,Raquel de Castellanos,72,Otro,Ibarra,2431.42,independiente,208,540.97,36,558,6062.63,4,3,2025-10-28,,android,Ecuador,Pendiente,0
+SOL-10430,CLI-1556,Yéssica Matas Real,0,f,GUAYAQUIL,3762.14,EMPLEADO,43,4983.66,48,497,773.71,4,1,2024-09-30,Call Center,Desconocido,Ecuador,RECHAZADO,0
+SOL-10027,CLI-4402,Lucía Iglesias Alberdi,58,m,Sto. Domingo,,Empleado,88,2782.75,36,312,1583.08,2,2,,,Desconocido,Ecuador,RECHAZADO,0
+SOL-10380,CLI-2866,Gaspar Tomás Asenjo Mármol,27,Masculino,Ibarra,3127.94,Empleado,153,12961.34,12,580,7174.24,6,0,18/01/2025,APP,Desconocido,Ecuador,Pendiente,0
+SOL-10138,CLI-1215,Felicia Mayoral Goñi,63,F,GUAYAQUIL,3928.74,EMPLEADO,180,5672.03,36,609,10985.28,3,3,27 de December de 2024,,Desconocido,Ecuador,RECHAZADO,0
+SOL-10420,CLI-3701,Aitor Severino Priego Llobet,33,F,Cuenca,2724.29,Independiente,-12,2237.71,12,810,14010.84,1,0,08/09/2025,web,Desktop,Ecuador,aprobado,0
+SOL-10395,CLI-1145,Estefanía Lopez Iborra,47,,Quito,1858.55,EMPLEADO,76,519.94,24,711,7380.69,0,1,06-05-2026,Sucursal,android,Ecuador,Aprobado,0
+SOL-10431,CLI-1946,Delia Chico Caballero,24,Masculino,GUAYAQUIL,885.33,independiente,215,2469.87,24,630,6561.32,5,3,08-08-2024,Sucursal,Android,Ecuador,Aprobado,0
+SOL-10216,CLI-2832,Mirta Bernat Moya,-5,m,Cuenca ,466.84,empleado,1,1478.89,36,322,12335.06,4,2,03-18-2026,Sucursal,Android,Vietnam,Rechazado,1
+SOL-10408,CLI-1562,Guiomar Recio,64,M,Cuenca ,808.89,Independiente,-12,476.44,12,574,202.45,0,3,2026-02-24,web,,Ecuador,Rechazado,0
+SOL-10021,CLI-1298,Verónica Segarra Clavero,47,Femenino,Ibarra,3255.05,Jubilado,37,628.53,12,735,10438.68,3,0,01-12-2025,app movil,,Ecuador,aprobado,0
+SOL-10386,CLI-4236,Fernando Marqués Medina,59,Femenino,Sto. Domingo,4080.17,Desempleado,1,2847.65,24,511,3851.41,6,0,2025-05-24,Web,IOS,Ecuador,Rechazado,0
+SOL-10207,CLI-3041,Mamen Pi Sarabia,41,M,Loja,728.91,Desempleado,14,4642.77,48,485,12258.76,6,0,2026-05-15,app movil,android,Ecuador,Rechazado,0
+SOL-10585,CLI-1600,Blanca Barroso Diego,46,M,Cuenca,4008.95,estudiante,43,3817.13,60,,7376.51,5,1,16/05/2025,web,Android,Ecuador,Rechazado,0
+SOL-10520,CLI-1095,Demetrio Saturnino Montaña Montes,66,,Ambato,1938.67,independiente,155,751.03,24,516,2679.34,1,3,,Call Center,IOS,Ecuador,aprobado,0
+SOL-10611,CLI-2423,Nuria Vall-Contreras,67,,Sto. Domingo,2623.3,independiente,22,1033.12,36,777,10205.07,0,0,03-12-2025,Sucursal,IOS,Colombia,Rechazado,0
+SOL-10480,CLI-3452,Silvestre Conde,46,,Ibarra,3822.7,estudiante,179,1189.48,60,821,8903.3,2,2,16 de November de 2024,,android,Ecuador,RECHAZADO,0
+SOL-10153,CLI-2062,Jacinta Alemany Buendía,44,M,Cuenca ,3303.08,Jubilado,87,1761.79,48,667,12609.58,4,0,03/02/2025,Web,android,Ecuador,RECHAZADO,0
+SOL-10280,CLI-3623,Inmaculada Milla Jara,71,F,Sto. Domingo,3130.25,Desempleado,125,1367.07,36,804,11183.48,4,1,04-02-2025,Call Center,,Peru,aprobado,0
+SOL-10354,CLI-1095,Pelayo Villalobos Casanovas,54,Masculino,Cuenca,4406.7,independiente,97,4627.42,48,492,14429.07,5,0,2025-01-27,Sucursal,Android,Ecuador,Aprobado,0
+SOL-10474,CLI-3686,Eusebia Sureda Cabrera,21,M,Cuenca,3206.21,EMPLEADO,10,1386.49,36,950,671.0,1,0,2025-11-12,Web,IOS,Ecuador,Aprobado,0
+SOL-10406,CLI-4555,Anacleto Mendoza Puig,67,F,Ibarra,3457.66,empleado,222,9824.64,48,525,9447.01,6,3,03/07/2026,Sucursal,android,Ecuador,Pendiente,0
+SOL-10593,CLI-4159,Heliodoro Montaña Manuel,41,F,Cuenca ,1475.99,estudiante,91,8385.42,36,800,2854.28,4,0,2025-12-22,web,android,Ecuador,Pendiente,0
+SOL-10412,CLI-4422,Claudio Carvajal-Sanz,64,F,Loja,4478.56,independiente,90,5462.58,48,641,13824.07,3,1,04-29-2026,,IOS,Ecuador,RECHAZADO,0
+SOL-10278,CLI-2261,Hilario del Santana,46,F,Ambato,3384.2,independiente,205,1222.27,48,724,1291.17,1,0,20/04/2025,web,Android,Ecuador,aprobado,0
+SOL-10387,CLI-4871,Carina Saldaña Ortega,17,M,GUAYAQUIL,4108.94,,113,9424.32,60,660,10318.95,5,3,2025-05-25,app movil,Android,Ecuador,Rechazado,0
+SOL-10282,CLI-3452,Arturo Rosales Bárcena,66,f,Loja,3789.97,empleado,69,2815.0,60,,7772.56,2,3,29/12/2025,Call Center,Desktop,Ecuador,Aprobado,0
+SOL-10478,CLI-1513,Yago Díez Rios,52,Otro,Sto. Domingo,2797.5,empleado,203,2841.56,48,731,7413.0,6,0,2026-04-08,,Android,Ecuador,Pendiente,0
+SOL-10467,CLI-2405,Salud Ochoa Coll,45,Femenino,Ambato,$777.16,independiente,191,11272.19,12,555,1900.74,1,0,2025-01-31,web,Desktop,Ecuador,Pendiente,0
+SOL-10142,CLI-1414,Mercedes Segura Coronado,39,Femenino,Machala,3258.51,,67,1990.04,12,702,2303.85,2,0,17/05/2025,Web,Desktop,Colombia,RECHAZADO,0
+SOL-10026,CLI-1816,María Bartolomé Plaza,71,Masculino,Ambato,917.51,Jubilado,119,2901.35,60,417,4665.58,4,0,07/04/2025,Call Center,android,Ecuador,Aprobado,0
+SOL-10630,CLI-4479,José Mari Pont Ripoll,42,Femenino,Guayaquil,3873.86,estudiante,113,6201.17,48,323,13227.09,3,3,,web,Desktop,Ecuador (VPN),RECHAZADO,1
+SOL-20543,,,,,,,,,,,,,,,,,,,,
+SOL-10410,CLI-2174,Fabiola Castellanos,32,Otro,Sto. Domingo,4025.32,Independiente,125,791.85,36,665,5407.4,0,0,04-05-2026,Sucursal,iOS,Ecuador,RECHAZADO,0
+SOL-10299,CLI-3356,Desiderio Madrigal Gordillo,50,m,quito,4026.72,Independiente,197,3698.8,48,541,1602.21,1,0,05/01/2026,Call Center,Desktop,Ecuador,aprobado,0
+SOL-10109,CLI-1348,Javier Cañellas Sobrino,24,f,Cuenca,$3052.7,independiente,192,4711.89,12,564,8369.9,5,1,2025-11-02,,Desktop,Peru,RECHAZADO,0
+SOL-10578,CLI-3280,Aurelio Cazorla-Bonet,28,f,Quito,No disponible,,-12,1189.63,36,679,10264.75,0,1,2024-11-16,App,,Ecuador,Aprobado,0
+SOL-10094,CLI-2230,Matilde Mir Casanovas,35,Masculino,Sto. Domingo,3182.88,Empleado,88,6071.61,36,726,2758.18,4,1,2025-12-11,app movil,Desktop,Ecuador,aprobado,0
+SOL-10064,CLI-1566,Nicanor Miralles,73,,Loja,,,217,964.2,36,760,6562.09,1,3,24/12/2024,web,Android,Ecuador,RECHAZADO,0
+SOL-10521,CLI-2142,Natalio Vázquez Giner,38,F,Sto. Domingo,4027.51,EMPLEADO,128,4950.2,48,806,13868.25,1,3,2025-05-01,Call Center,Desktop,Vietnam,Rechazado,1
+SOL-10171,CLI-4263,Inés Mayoral-Barrena,69,M,Machala,1988.97,EMPLEADO,141,1962.47,48,530,9714.49,6,1,09-21-2025,app movil,,Ecuador,Pendiente,0
+SOL-10394,CLI-1716,Isidora Benítez Cervantes,22,Masculino,GUAYAQUIL,No disponible,estudiante,97,828.15,24,420,3971.26,0,2,25 de July de 2025,Call Center,iOS,Colombia,RECHAZADO,0
+SOL-10136,CLI-2932,Gisela Fiol Benitez,51,Femenino,Cuenca,810.55,empleado,136,602.81,24,697,12678.31,1,0,09-08-2025,web,,Ecuador,RECHAZADO,0
+SOL-10622,CLI-4081,Gema Acuña Garmendia,45,f,,2017.98,EMPLEADO,100,1799.17,24,790,13331.16,5,3,,Sucursal,iOS,Ecuador,aprobado,0
+SOL-10059,CLI-2271,Camila Barberá,47,M,Loja,No disponible,Independiente,157,5425.42,60,342,9777.56,2,1,05/06/2026,Sucursal,Android,Ecuador,Aprobado,0
+SOL-10186,CLI-3116,Luis Arjona-Díez,43,M,Ibarra,3384.69,Independiente,55,9975.37,24,524,11919.24,6,3,2025-06-11,APP,iOS,Ecuador,aprobado,0
+SOL-10052,CLI-2533,Ariel de Alcolea,27,,Guayaquil,-774.02,independiente,24,3674.12,60,361,4944.69,0,1,11/06/2026,Call Center,,Ecuador,Pendiente,0
+SOL-10307,CLI-3018,Águeda Bermejo Millán,39,Masculino,Guayaquil,1701.0,Desempleado,66,645.7,48,587,4243.88,2,1,,APP,IOS,Ecuador,Pendiente,0
+SOL-10309,CLI-1834,Fermín Duarte Seguí,73,Masculino,Ibarra,2485.82,Jubilado,149,555.2,60,484,11523.8,5,0,03/03/2026,App,Desktop,Peru,Aprobado,0
+SOL-10269,CLI-1215,Felicia Mayoral Goñi,33,F,Quito,2367.11,estudiante,219,645.28,48,441,11847.88,2,2,28/04/2026,App,,Ecuador,Pendiente,0
+SOL-10456,CLI-3767,Alcides de Farré,58,m,Sto. Domingo,1674.65,Empleado,206,1418.83,12,456,1452.95,1,0,16/07/2024,App,,Ecuador,Aprobado,0
+SOL-10048,CLI-2504,Nicodemo Cabello Barrera,52,f,Quito,2032.37,Independiente,217,932.09,60,321,14832.31,6,1,2025-04-23,Web,,Ecuador,RECHAZADO,0
+SOL-10553,CLI-3137,Rosenda Escobar Campo,44,,Loja,958.09,Empleado,19,11672.48,24,368,2156.87,6,0,,app movil,android,Colombia,aprobado,0
+SOL-10217,CLI-4643,Fortunata del Torrents,55,m,,1631.24,Jubilado,187,3651.49,24,799,8643.49,0,1,01 de April de 2026,APP,Android,Ecuador,aprobado,0
+SOL-10581,CLI-2383,Esteban Riba Pons,38,Masculino,Ibarra,2572.74,Jubilado,145,3780.43,60,718,5892.44,3,0,01-23-2026,,Desktop,Ecuador,aprobado,0
+SOL-10146,CLI-2131,Severo de Lorenzo,51,M,,3271.69,independiente,28,1126.64,60,402,1514.86,2,3,04-08-2026,web,android,Colombia,aprobado,0
+SOL-10014,CLI-1779,Ani Marcos Pardo,37,F,Cuenca,1484.31,,39,1780.57,24,570,13622.39,0,0,26 de March de 2025,Call Center,,Ecuador,Pendiente,0
+SOL-10012,CLI-1779,Ani Marcos Pardo,23,F,Cuenca ,678.64,independiente,30,1697.35,12,383,7841.74,2,0,20 de March de 2026,web,iOS,Ecuador,Pendiente,0
+SOL-10582,CLI-4155,Luna Alba Prada Amores,39,Masculino,Sto. Domingo,1975.59,Desempleado,113,1581.58,24,579,11538.6,5,1,12-14-2025,app movil,iOS,Ecuador,Rechazado,0
+SOL-10458,CLI-3019,Leyre Soto Barrios,41,Otro,Machala,,independiente,208,506.68,12,,9756.33,5,1,30/11/2025,App,Desktop,Ecuador,aprobado,0
+SOL-10379,CLI-2997,Josué Uribe-Río,42,M,Manta,653.73,independiente,108,3657.02,24,832,1598.79,0,1,,,Desktop,Ecuador,Rechazado,0
+SOL-10158,CLI-3978,Rafaela de Feliu,26,M,Cuenca ,,Empleado,96,2417.0,60,,1621.7,6,0,2024-12-08,Web,android,Ecuador,RECHAZADO,0
+SOL-10256,CLI-1303,Miguel Ángel Almazán,35,Otro,Machala,No disponible,empleado,45,10334.15,24,702,2158.09,6,1,2024-08-08,Web,android,Ecuador,Aprobado,0
+SOL-20400,,,,,,,,,,,,,,,,,,,,
+SOL-10187,CLI-1281,África Lobo Escudero,32,Masculino,Guayaquil,467.91,,175,1142.2,24,787,13166.29,4,1,,Web,Android,Ecuador,RECHAZADO,0
+SOL-10633,CLI-1368,Ciro Miranda Sanmartín,63,F,Cuenca ,No disponible,Independiente,134,7676.89,24,746,3436.33,2,0,09-28-2025,Web,iOS,Ecuador,Aprobado,0
+SOL-10039,CLI-2158,Isabel Villar Sanmiguel,64,,Cuenca,2230.84,EMPLEADO,141,5410.69,36,493,5744.56,6,3,29/09/2024,App,Desktop,Ecuador,aprobado,0
+SOL-10211,CLI-3452,Federico Suárez Piquer,73,F,GUAYAQUIL,1035.6,empleado,138,605.18,60,688,9296.02,2,3,04-11-2025,app movil,Desktop,Peru,RECHAZADO,0
+SOL-10436,CLI-1843,Ainoa Bosch Pozuelo,64,,Machala,2844.95,EMPLEADO,159,5358.63,60,661,963.99,1,0,07-07-2025,APP,IOS,Ecuador,RECHAZADO,0
+SOL-10600,CLI-1836,Dionisio Edmundo Correa Rocha,27,M,Sto. Domingo,3040.35,EMPLEADO,119,1078.67,48,460,1616.17,2,1,30/01/2026,app movil,Desconocido,Ecuador,Rechazado,0
+SOL-10144,CLI-4259,Chus del Ayllón,62,F,Sto. Domingo,1809.54,Jubilado,141,6136.81,48,848,8590.71,1,1,06/05/2026,Web,android,Ecuador,RECHAZADO,0
+SOL-10573,CLI-4901,Nélida Corominas Gargallo,49,M,Quito,4180.55,Independiente,236,1745.76,36,481,5576.76,6,1,2025-08-11,Sucursal,iOS,Ecuador,Pendiente,0
+SOL-10526,CLI-3904,Samuel Sierra Barco,49,m,Loja,1610.7,estudiante,179,2275.54,24,,13202.56,4,0,18 de August de 2025,APP,Desktop,Ecuador,RECHAZADO,0
+SOL-10346,CLI-1754,Rufina Yaiza Daza Río,70,f,Quito,$702.3,Independiente,36,1728.8,36,344,4261.51,1,0,03 de August de 2024,Sucursal,Desktop,Ecuador,Rechazado,0
+SOL-10590,CLI-4392,Juana de Gomis,30,F,Cuenca,775.99,Empleado,110,1476.13,12,696,7140.66,1,2,29/09/2025,Sucursal,android,Peru,RECHAZADO,0
+SOL-10357,CLI-3359,Hipólito Baeza Prieto,20,m,Sto. Domingo,4012.08,empleado,100,1066.02,24,742,2751.66,4,0,04/07/2025,App,iOS,Ecuador,Pendiente,0
+SOL-10574,CLI-2731,Iris Estevez Pinto,61,m,Ambato,4255.12,empleado,104,6147.11,48,584,11688.38,2,1,2024-09-03,Call Center,Android,Ecuador,Rechazado,0
+SOL-10522,CLI-1402,Américo Díez-Roldán,42,Otro,Machala,2082.2,Jubilado,35,12995.64,60,718,3749.11,4,4,13/08/2025,Web,Desktop,Ecuador (VPN),RECHAZADO,1
+SOL-10154,CLI-1749,Nydia Hervia Medina,61,F,Ambato,1856.66,empleado,107,3146.02,60,601,805.15,5,1,10-31-2025,Web,android,Ecuador,Aprobado,0
+SOL-10029,CLI-4605,Camila Santiago Acero,56,m,GUAYAQUIL,441.62,Independiente,61,8976.56,24,787,11893.99,0,0,2026-05-31,Call Center,Desconocido,Peru,RECHAZADO,0
+SOL-10055,CLI-2114,Dulce Sanz Machado,46,,Cuenca ,2212.38,,29,810.64,60,798,3307.78,4,0,2025-05-08,app movil,Desktop,Ecuador,Pendiente,0
+SOL-10597,CLI-2708,Carolina de Serrano,33,f,Ibarra,1357.1,EMPLEADO,162,9717.78,60,648,2915.67,1,0,,app movil,Desconocido,Ecuador,Rechazado,0
+SOL-10020,CLI-2811,Curro Miranda Garcia,61,,,4094.84,Desempleado,168,11655.42,60,643,3523.03,2,3,,app movil,iOS,Nigeria,RECHAZADO,1
+SOL-10151,CLI-1541,Aristides Hernández,59,M,Ambato,1434.8,empleado,182,2139.05,48,657,4532.18,4,3,12-11-2025,Call Center,IOS,Ecuador,Pendiente,0
+SOL-10528,CLI-3404,Fito Bermúdez,72,f,Machala,3948.18,Desempleado,222,1093.6,48,314,3372.38,1,0,2026-05-08,APP,IOS,Ecuador,Rechazado,0
+SOL-10421,CLI-2938,Calista Donoso-Nebot,34,,Sto. Domingo,4189.06,estudiante,10,2120.75,60,432,9369.48,2,0,2026-03-10,Call Center,IOS,Peru,Aprobado,0
+SOL-10275,CLI-3125,Regina Castrillo Juárez,41,M,Sto. Domingo,1699.47,EMPLEADO,114,1113.46,12,325,2180.76,3,0,2025-07-25,App,Desconocido,Ecuador,Pendiente,0
+SOL-10572,CLI-3339,Ruben Sanjuan-Trujillo,52,f,Ibarra,$596.62,empleado,98,9209.74,48,820,5562.36,5,0,2024-12-16,Web,android,Ecuador,Pendiente,0
+SOL-10557,CLI-4384,Pablo de Marín,63,Otro,Cuenca ,2527.76,independiente,10,904.2,12,544,13556.84,3,3,15/11/2025,App,Desktop,Ecuador,aprobado,0
+SOL-10163,CLI-2999,Aroa Alberola Luís,25,,Quito,659.68,Empleado,180,12070.11,60,529,5074.51,4,2,11 de June de 2025,Web,android,Ecuador,aprobado,0
+SOL-10327,CLI-4068,Ariel Pedrero Palmer,71,F,Quito,2142.04,Jubilado,114,10611.01,60,831,8764.56,5,1,03/06/2026,,Desconocido,Ecuador,Rechazado,0
+SOL-10649,CLI-2239,Felicia Lucas-Diéguez,63,,Sto. Domingo,538.73,Jubilado,88,618.22,36,698,9874.94,3,3,24 de February de 2025,web,android,Ecuador,aprobado,0
+SOL-10403,CLI-2122,Consuelo Carrión,62,m,Quito,No disponible,Jubilado,189,9391.02,60,376,5762.26,6,1,23/06/2026,APP,iOS,Ecuador,RECHAZADO,0
+SOL-10616,CLI-4068,Alfredo Sandalio Cardona Alsina,39,,Quito,1723.78,estudiante,55,723.29,24,328,7531.09,3,0,15 de March de 2026,Call Center,,Colombia,Aprobado,0
+SOL-10416,CLI-2113,Teo Aníbal Iglesia Ferrándiz,23,Masculino,Ibarra,1268.64,Jubilado,100,11420.33,12,779,6076.5,3,0,2025-10-10,web,Desconocido,Ecuador,Aprobado,0
+SOL-10320,CLI-2462,Bárbara Sabater Bayo,61,M,,661.03,Jubilado,30,8025.03,36,663,8355.34,1,3,10 de June de 2025,Web,Desconocido,Ecuador,aprobado,0
+SOL-10062,CLI-4861,René Arévalo Canals,29,f,,2393.71,Desempleado,39,882.46,60,839,11494.61,1,1,01/08/2024,Sucursal,iOS,Ecuador,Rechazado,0
+SOL-10175,CLI-4881,Ambrosio Barrera,38,F,Cuenca,4383.68,,1,1752.2,24,734,12431.23,5,3,11/06/2025,Web,Desconocido,Ecuador,aprobado,0
+SOL-10390,CLI-4647,Tomasa Francisca Hernando Valenciano,32,F,,4195.11,empleado,150,7505.73,36,588,13448.55,1,0,,Call Center,iOS,Peru,RECHAZADO,0
+SOL-10372,CLI-2181,Dolores Alegre Palau,64,Masculino,Loja,1164.24,estudiante,46,864.21,24,490,12137.68,1,0,,Call Center,android,Ecuador,Aprobado,0
+SOL-10283,CLI-3061,Ruperta Castillo Barreda,32,F,Machala,No disponible,Desempleado,-12,3073.89,36,442,8964.73,6,0,2025-09-04,APP,Android,Ecuador,Rechazado,0
+SOL-10284,CLI-1537,Liliana Piedad Cerezo Baños,27,m,Cuenca,1260.35,independiente,176,744.88,48,741,11895.83,4,1,2025-08-17,,Android,Ecuador,Aprobado,0
+SOL-10254,CLI-4068,Ariel Pedrero Palmer,33,Femenino,GUAYAQUIL,1783.37,Desempleado,80,616.34,12,721,6689.13,1,2,16/08/2024,APP,iOS,Rusia,RECHAZADO,1
+SOL-10243,CLI-1914,Teodoro Octavio Carrillo Armengol,47,m,,1829.32,,26,824.28,12,609,6201.63,4,0,07-30-2025,Sucursal,android,Ecuador,Rechazado,0
+SOL-10070,CLI-1420,Emperatriz de Cañizares,23,m,Manta,2228.25,Desempleado,176,7335.54,36,745,14218.57,0,2,12 de January de 2025,Call Center,Desktop,Peru,Rechazado,0
+SOL-10304,CLI-4714,Fernando Benito Aguilera Valencia,23,Femenino,Manta,3275.17,independiente,158,1919.4,36,474,10778.75,3,3,31/12/2025,,Android,Ecuador,Rechazado,0
+SOL-10060,CLI-1706,Teodoro Estevez Bayona,20,,quito,2548.68,EMPLEADO,95,5317.54,36,353,988.68,0,1,10 de September de 2025,Call Center,Desktop,Peru,RECHAZADO,0
+SOL-10393,CLI-1043,Alejandra Corral-Sandoval,45,Masculino,quito,2441.0,,178,573.26,12,735,3663.39,5,2,,App,IOS,Ecuador,RECHAZADO,0
+SOL-10288,CLI-3761,Consuelo Campoy Ordóñez,49,Otro,quito,2542.92,Independiente,36,957.26,24,366,3003.95,6,1,2026-03-12,app movil,,Ecuador,Pendiente,0
+SOL-10267,CLI-1455,Reyes Paredes Vilanova,72,Otro,Cuenca,3517.39,empleado,154,1131.25,60,535,7338.2,1,4,09/09/2025,,Desktop,Ecuador (VPN),Rechazado,1
+SOL-10305,CLI-4331,Berto Pinto Grau,68,,Machala,933.82,Jubilado,210,1601.0,48,950,6764.65,1,3,07-03-2025,,Android,Nigeria,aprobado,1
+SOL-10050,CLI-2482,Jacinta de Roca,50,,GUAYAQUIL,1308.35,,77,462.17,48,711,10686.02,3,0,2024-11-14,web,IOS,Ecuador,Pendiente,0
+SOL-10432,CLI-1103,Teresa Ripoll Hurtado,65,,Sto. Domingo,2989.16,Jubilado,167,1955.06,24,687,4124.47,1,2,2026-06-06,Web,Android,Ecuador,Aprobado,0
+SOL-10558,CLI-3141,Nacho Angulo Bueno,20,Otro,Sto. Domingo,4123.13,Desempleado,6,2818.57,48,329,3802.71,6,2,25/04/2025,web,iOS,Ecuador,Pendiente,0
+SOL-10044,CLI-4698,Emilio del Gargallo,36,Femenino,Cuenca ,3687.92,Jubilado,158,1151.3,12,,5472.92,1,0,01/08/2025,web,Desconocido,Ecuador,Rechazado,0
+SOL-10238,CLI-2112,Severo Córdoba-Jimenez,44,Femenino,Loja,2252.82,Jubilado,134,839.75,12,506,374.02,3,1,2026-05-02,app movil,Desktop,Ecuador,Pendiente,0
+SOL-10442,CLI-3137,Javiera Losa,51,,Sto. Domingo,2409.43,estudiante,57,2369.11,36,548,3088.37,0,3,26/02/2026,App,iOS,Nigeria,aprobado,1
+SOL-10162,CLI-2869,Leonel Manzano Cases,35,,,2129.13,Desempleado,28,646.31,24,406,12033.97,5,1,2025-10-12,Call Center,,Ecuador,Rechazado,0
+SOL-10497,CLI-4733,Zaira del Gil,73,m,Loja,2960.45,empleado,143,1396.49,24,405,3944.06,0,0,,Call Center,Desktop,Ecuador,RECHAZADO,0
+SOL-10512,CLI-2167,Azahara Escalona Pozo,37,,Quito,1470.18,Desempleado,41,12336.93,48,384,9838.03,3,3,,App,iOS,Ecuador,RECHAZADO,0
+SOL-10429,CLI-4488,Lola Camino Montaña,44,,GUAYAQUIL,1962.43,estudiante,31,8521.39,48,307,7613.41,2,2,26/12/2024,APP,,Ecuador,Rechazado,0
+SOL-10384,CLI-3441,Débora Blanch,29,Otro,,3236.36,Independiente,199,5050.43,48,0,7338.28,5,1,2025-12-16,App,IOS,Ecuador,aprobado,0
+SOL-10213,CLI-2500,Eusebia Cabrera-Sacristán,32,F,Quito,4213.87,estudiante,237,869.78,12,669,6239.3,2,3,13 de September de 2024,App,,Ecuador,Aprobado,0
+SOL-10588,CLI-3847,Poncio del Ferrán,61,Otro,Loja,1903.85,independiente,104,1277.16,36,497,13700.36,5,0,,web,,Ecuador,Aprobado,0
+SOL-10333,CLI-2692,Guiomar Valbuena Maldonado,29,M,Manta,1998.75,independiente,228,6383.16,12,353,8790.44,3,1,,Call Center,Android,Ecuador,aprobado,0
+SOL-10191,CLI-4950,Ruth Arco Sanz,-5,Masculino,quito,4196.03,Independiente,67,914.89,48,710,10674.09,4,0,,Sucursal,Desconocido,Ecuador,Rechazado,0
+SOL-10479,CLI-3913,Ángel Arce Puerta,48,Masculino,Quito,$3818.82,Desempleado,18,12674.49,48,662,3621.52,2,0,29/01/2026,web,IOS,Ecuador,Aprobado,0
+SOL-10108,CLI-4259,Chus del Ayllón,68,,Cuenca,2996.68,Desempleado,183,4647.93,60,790,13852.44,6,2,14/08/2025,App,,Ecuador,RECHAZADO,0
+SOL-10506,CLI-3329,Ramón Gibert Beltran,31,Otro,Loja,3048.63,empleado,53,11206.44,36,392,3273.82,2,0,2024-08-05,Sucursal,android,Ecuador,Pendiente,0
+SOL-10009,CLI-4790,Chita del Giménez,35,Femenino,GUAYAQUIL,942.48,estudiante,62,4880.82,12,741,12957.55,0,2,29 de July de 2025,Web,Android,Ecuador,Aprobado,0
+SOL-10601,CLI-2322,Jacobo Tello Pérez,19,f,GUAYAQUIL,2356.12,independiente,140,5792.66,48,482,518.01,2,0,07-28-2025,App,IOS,Ecuador,aprobado,0
+SOL-10293,CLI-3708,Lorenzo Pérez Baños,33,m,Cuenca ,748.26,empleado,29,557.68,12,771,7721.4,3,3,2024-10-14,,IOS,Vietnam,RECHAZADO,1
+SOL-10570,CLI-1397,Modesta León,41,,Ambato,$3655.62,Empleado,234,9794.9,60,401,9822.06,4,1,12-19-2024,Call Center,,Ecuador,Pendiente,0
+SOL-10193,CLI-4398,Nando Sevilla Reyes,53,f,Loja,4349.48,Jubilado,116,502.22,48,818,4413.78,0,3,08-11-2024,APP,IOS,Ecuador,Pendiente,0
+SOL-10464,CLI-1278,Rogelio Ernesto Galan Torrijos,73,m,Guayaquil,2591.14,,238,2119.38,12,413,14774.01,5,0,2025-02-19,web,android,Ecuador,Aprobado,0
+SOL-10038,CLI-3935,Cloe Font Mesa,36,m,Machala,3822.37,Jubilado,116,4881.22,60,820,1047.15,6,3,,Call Center,Desktop,Ecuador,Pendiente,0
+SOL-10043,CLI-2809,Anastasio de Murillo,40,m,Sto. Domingo,4344.32,estudiante,216,6206.67,12,542,4438.09,5,4,2024-08-23,Call Center,Desktop,Rusia,aprobado,1
+SOL-10204,CLI-2972,Evita Vera Lastra,52,F,quito,1662.26,Desempleado,-12,12261.52,24,652,10316.55,3,3,22/02/2026,APP,Android,Ecuador,RECHAZADO,0
+SOL-10378,CLI-4138,José Ángel Heliodoro Sáenz Isern,56,f,Machala,4131.69,independiente,167,12864.99,48,538,1315.21,0,0,29 de July de 2024,app movil,Desconocido,Ecuador,Pendiente,0
+SOL-10330,CLI-3067,Lourdes Cuenca,58,,Sto. Domingo,2241.21,EMPLEADO,22,5274.47,48,647,13350.65,5,0,26 de March de 2025,Web,,Ecuador,RECHAZADO,0
+SOL-10397,CLI-2356,Azahara del Juliá,75,Femenino,quito,4334.77,Independiente,107,9759.42,24,632,5998.14,5,2,,Call Center,iOS,Ecuador,Aprobado,0
+SOL-10469,CLI-1221,Fulgencio Salamanca Jerez,40,,Manta,721.63,,59,9843.08,36,445,6604.16,6,1,2025-12-31,App,android,Ecuador,Pendiente,0
+SOL-10507,CLI-2547,Odalis Bartolomé Barrena,60,M,Loja,3275.28,Empleado,40,3104.01,12,491,7002.62,1,3,2026-05-17,,,Ecuador,RECHAZADO,0
+SOL-10233,CLI-1359,Marcio del Gilabert,21,Masculino,Cuenca,3155.57,,45,3817.78,12,606,12303.97,6,1,,Web,Desktop,Ecuador,Pendiente,0
+SOL-10069,CLI-1195,Isidoro Mate Ángel,73,m,Guayaquil,3677.3,independiente,190,5178.07,24,808,11959.36,2,3,2024-07-08,Call Center,Android,Ecuador,RECHAZADO,0
+SOL-10496,CLI-3928,Calista Sanz Pereira,71,f,Machala,1134.83,Empleado,79,1766.43,60,769,7030.41,1,0,02/05/2025,app movil,Desktop,Ecuador,Pendiente,0
+SOL-10195,CLI-4158,Mamen Roma Agustí,33,Otro,Sto. Domingo,3470.03,,238,3124.25,60,575,13953.83,1,1,09 de January de 2026,app movil,iOS,Ecuador,Rechazado,0
+SOL-10172,CLI-3796,Rico Galiano Galván,22,Masculino,Ibarra,2506.77,independiente,71,964.37,36,305,2322.09,1,0,01-12-2025,App,,Ecuador,Pendiente,0
+SOL-10218,CLI-3717,Segismundo de Moles,67,Otro,Machala,,Jubilado,191,576.78,48,,8098.95,1,0,07-29-2024,app movil,iOS,Ecuador,aprobado,0
+SOL-10413,CLI-2575,Severo Casanova Villegas,23,Otro,GUAYAQUIL,2769.29,Jubilado,179,2703.44,12,671,13813.56,0,0,22/10/2024,Sucursal,Desktop,Ecuador,aprobado,0
+SOL-10525,CLI-4392,Juana de Gomis,70,M,Loja,2037.66,estudiante,109,766.71,36,414,9848.05,1,0,,,iOS,Ecuador,Aprobado,0
+SOL-10107,CLI-4950,Nacio Adán Campillo,43,m,Ibarra,3249.33,Jubilado,83,5230.03,60,504,10225.69,4,0,23 de January de 2026,,Desconocido,Ecuador,Aprobado,0
+SOL-10443,CLI-1428,Nieves María Jesús Carrera Castells,39,f,,4271.96,Desempleado,217,987.51,36,694,7701.96,6,1,2026-06-15,Web,Desktop,Peru,Pendiente,0
+SOL-10382,CLI-1799,Evelia Estévez Valderrama,62,Otro,Guayaquil,936.69,Empleado,217,2166.03,24,440,13458.27,1,0,,app movil,Desconocido,Ecuador,RECHAZADO,0
+SOL-10349,CLI-1834,Fermín Duarte Seguí,42,f,quito,2527.46,EMPLEADO,134,8716.03,60,710,9746.06,1,0,2026-01-27,,,Ecuador,Pendiente,0
+SOL-10031,CLI-2238,Sosimo Miguel Vera Flor,18,Masculino,Manta,No disponible,empleado,178,7528.28,12,591,2765.46,0,0,,,Android,Ecuador,aprobado,0
+SOL-10360,CLI-3486,Simón Naranjo Coll,24,F,GUAYAQUIL,3439.93,Empleado,173,8345.88,24,335,6630.87,0,3,11 de October de 2024,Web,android,Ecuador,Aprobado,0
+SOL-10491,CLI-4519,Custodia Salom Lasa,37,Otro,GUAYAQUIL,3448.28,estudiante,51,8405.06,48,395,4178.37,2,4,05-31-2026,app movil,android,Ecuador (VPN),aprobado,1
+SOL-10199,CLI-4276,Griselda de Gomila,65,M,Cuenca,2128.23,,136,8160.11,60,348,900.55,6,0,28/06/2026,Web,android,Ecuador,Pendiente,0
+SOL-10535,CLI-2655,Heliodoro Heras,21,f,Sto. Domingo,3702.02,empleado,4,1475.17,36,,6412.48,3,0,08-10-2025,app movil,,Ecuador,aprobado,0
+SOL-10165,CLI-3347,Aurora Bas Pérez,46,,quito,1695.85,Empleado,26,561.43,12,393,9563.07,4,1,2025-06-27,,Desktop,Ecuador,Rechazado,0
+SOL-10351,CLI-2087,Roque Graciano Valverde Álamo,59,F,Manta,3854.67,Independiente,201,1409.05,12,668,2949.69,2,0,05/05/2025,APP,iOS,Ecuador,RECHAZADO,0
+SOL-10150,CLI-2943,Odalys Vanesa Llorente Agustín,55,f,Cuenca,3834.38,Independiente,72,482.58,60,519,10165.43,2,2,15/07/2025,App,,Peru,Aprobado,0
+SOL-10167,CLI-3891,Javiera Jove Huertas,31,Femenino,Ibarra,1785.53,Empleado,237,967.09,48,768,2019.54,3,0,08-18-2025,App,IOS,Ecuador,aprobado,0
+SOL-10352,CLI-1034,Sebastian Flores Chacón,67,f,,4487.05,Empleado,120,1246.19,24,532,3505.85,4,3,04-02-2026,,Desconocido,Ecuador,Aprobado,0
+SOL-10089,CLI-3875,Chuy Lara-Arenas,53,Femenino,,1414.61,Independiente,134,2793.72,60,414,7582.31,4,1,2024-09-20,Sucursal,Desktop,Ecuador,Aprobado,0
+SOL-10003,CLI-1284,César Guerrero Vazquez,20,m,Guayaquil,3906.8,independiente,71,2895.18,36,514,10253.21,0,1,16 de September de 2025,Sucursal,IOS,Ecuador,aprobado,0
+SOL-10257,CLI-3347,Aurora Bas Pérez,64,,Quito,4075.7,Empleado,238,5032.87,36,700,14098.67,3,1,03/03/2025,Call Center,,Ecuador,RECHAZADO,0
+SOL-10194,CLI-4956,Fidela Valentín,42,Femenino,,1792.61,estudiante,229,546.39,36,369,3305.73,5,0,,web,android,Ecuador,RECHAZADO,0
+SOL-10398,CLI-3711,Daniela Saura Coca,0,M,Sto. Domingo,3802.33,Empleado,111,2188.74,48,553,2802.9,2,3,2024-12-06,APP,Desconocido,Ecuador,Rechazado,0
+SOL-10181,CLI-4392,Toni de Elorza,72,Femenino,Manta,3407.53,Independiente,-12,11526.51,60,714,549.84,2,1,02-25-2026,,Desconocido,Ecuador,aprobado,0
+SOL-10362,CLI-3567,Jacinta Adadia Bernad,30,Otro,Machala,895.3,EMPLEADO,82,5807.99,12,698,9869.43,2,2,07-16-2024,web,Android,Ecuador,aprobado,0
+SOL-10095,CLI-3303,José Luis Fabián Real Morera,44,Masculino,Machala,1395.72,Independiente,236,2810.96,24,352,9043.83,6,0,2025-04-23,app movil,android,Ecuador,Pendiente,0
+SOL-10365,CLI-2346,Amado Gómez Rivas,26,M,GUAYAQUIL,3646.3,empleado,192,3111.27,24,355,3725.07,5,2,13 de October de 2025,app movil,IOS,Ecuador,Pendiente,0
+SOL-10086,CLI-4430,Heraclio Moya,29,M,Machala,3630.64,empleado,224,2254.37,12,643,8149.51,3,0,,,Desktop,Ecuador,Pendiente,0
+SOL-10285,CLI-1042,Nazaret Carvajal Reig,66,F,Cuenca ,1242.14,Desempleado,171,766.58,36,656,11712.03,4,0,03-18-2025,Web,Android,Ecuador,RECHAZADO,0
+SOL-10493,CLI-2939,Américo de Solana,51,Femenino,Quito,3546.37,empleado,189,914.6,60,716,3138.36,4,3,12/02/2025,,Desktop,Ecuador,Pendiente,0
+SOL-10126,CLI-4368,Eugenia Galán Sanz,64,f,Cuenca,3474.08,Independiente,197,3668.53,36,836,8649.78,0,1,26/02/2025,web,Android,Ecuador,Rechazado,0
+SOL-10524,CLI-4722,Guadalupe Company Marín,28,F,Quito,3469.3,independiente,221,9958.94,12,727,8060.12,5,3,04-04-2025,App,android,Ecuador,Pendiente,0
+SOL-10477,CLI-2102,Wilfredo Borrás Guerra,30,m,Ambato,1747.61,EMPLEADO,59,941.78,48,719,7584.65,2,2,29/07/2025,app movil,android,Ecuador,RECHAZADO,0
+SOL-10548,CLI-3937,Anastasio de Agullo,43,F,Ambato,1327.52,empleado,84,9338.74,60,829,11398.4,1,0,09/12/2024,web,Desconocido,Ecuador,aprobado,0
+SOL-10513,CLI-2862,Silvestre de Alsina,18,Otro,Machala,3562.57,empleado,189,8806.6,48,643,1675.08,1,1,06-18-2026,Call Center,,Ecuador,Aprobado,0
+SOL-10571,CLI-2834,Francisco Puente Morera,66,Otro,Machala,-2184.07,Empleado,125,10936.42,48,613,4307.91,5,2,2024-07-24,App,iOS,Ecuador,RECHAZADO,0
+SOL-10346,CLI-1754,Rufina Yaiza Daza Río,70,f,Quito,$702.3,Independiente,36,1728.8,36,344,4261.51,1,0,03 de August de 2024,Sucursal,Desktop,Ecuador,Rechazado,0
+SOL-10463,CLI-2460,León Martín-Gomila,57,Masculino,,675.33,independiente,223,760.7,60,605,772.19,4,0,2026-05-22,app movil,,Ecuador,aprobado,0
+SOL-10117,CLI-4901,Nélida Corominas Gargallo,72,F,Cuenca,4347.37,Empleado,70,1180.57,24,555,3713.32,6,2,18/08/2024,,iOS,Ecuador,aprobado,0
+SOL-10184,CLI-2496,Victor Rosales Mora,55,F,GUAYAQUIL,1431.5,Jubilado,132,3284.23,48,306,2484.09,0,1,17 de September de 2025,APP,iOS,Ecuador,Pendiente,0
+SOL-10277,CLI-4200,Teodosio Garrido Ropero,67,M,Guayaquil,2607.49,Independiente,131,8216.82,60,823,5415.97,1,2,,Call Center,Desktop,Ecuador,Pendiente,0
+SOL-10068,CLI-1717,Vera Bayona Hidalgo,71,,Ibarra,2361.98,Desempleado,16,7318.35,24,344,4733.94,2,3,30/03/2025,,Desktop,Nigeria,Pendiente,1
+SOL-10246,CLI-4836,Nicolás Guillen Soto,45,f,Guayaquil,2789.18,,103,1849.93,60,-1,5388.67,6,0,,App,iOS,Ecuador,aprobado,0
+SOL-10004,CLI-4790,Chita del Giménez,58,Femenino,Sto. Domingo,1729.56,Empleado,58,3181.4,12,516,10768.71,1,2,27/05/2025,Call Center,Desconocido,Ecuador,Rechazado,0
+SOL-10125,CLI-3402,Bernarda Serrano Espada,58,F,Manta,3264.57,Jubilado,14,4731.97,60,356,11109.87,0,3,08 de August de 2024,Sucursal,Desconocido,Ecuador (VPN),RECHAZADO,1
+SOL-10160,CLI-2678,Eusebio Gordillo,36,,Ambato,3221.64,Jubilado,-12,1010.2,60,805,7675.58,5,2,2025-03-23,APP,Desconocido,Ecuador,Pendiente,0
+SOL-10079,CLI-1033,Vinicio Pallarès Gallo,72,Masculino,Manta,3382.78,EMPLEADO,11,9778.62,60,595,11466.06,2,3,11-13-2025,Web,iOS,Ecuador,Pendiente,0
+SOL-10071,CLI-1584,Ramiro Cortés Lladó,72,,Quito,917.54,EMPLEADO,92,571.02,48,679,8608.83,4,0,24/01/2025,web,Desconocido,Ecuador,Aprobado,0
+SOL-10562,CLI-2803,Curro del Linares,59,Masculino,Quito,1616.85,estudiante,214,11204.9,60,496,8713.43,5,1,06/08/2024,APP,Desconocido,Ecuador,Pendiente,0
+SOL-10556,CLI-4945,Ani Perea Ramis,45,F,,1548.83,empleado,231,10315.32,36,665,12089.87,1,1,03/06/2025,app movil,IOS,Ecuador,Aprobado,0
+SOL-10317,CLI-2207,Desiderio Calderon Coll,54,Otro,Quito,,independiente,106,12996.11,12,799,10869.21,5,3,,,iOS,Ecuador,Aprobado,0
+SOL-10296,CLI-3750,María Blazquez-Badía,66,M,Sto. Domingo,3283.66,estudiante,54,8057.4,60,744,898.22,1,0,24/10/2024,Sucursal,iOS,Peru,Pendiente,0
+SOL-10100,CLI-3147,Josefa Sala Salamanca,27,m,Loja,1496.03,EMPLEADO,103,1944.14,24,607,9806.04,6,2,,App,Android,Ecuador,RECHAZADO,0
+SOL-10371,CLI-2035,Trinidad Soriano Arranz,62,Otro,Cuenca ,1662.71,Independiente,27,3677.07,36,514,4621.51,1,3,10/10/2025,App,Android,Ecuador,RECHAZADO,0
+SOL-10168,CLI-4199,Aristides Edelmiro Carrasco Rico,29,Masculino,Ibarra,,EMPLEADO,129,6459.0,24,580,4412.6,6,0,2025-09-19,Call Center,IOS,Ecuador,Pendiente,0
+SOL-10209,CLI-2388,Galo Ramos Cortes,55,Femenino,Quito,4372.22,estudiante,176,3624.96,24,461,5076.33,6,2,2024-12-20,App,Desktop,Ecuador,Aprobado,0
+SOL-10437,CLI-1122,Cándido del Atienza,25,f,Machala,3642.68,Independiente,55,2874.05,36,,4933.04,3,1,,web,iOS,Ecuador,Pendiente,0
+SOL-10166,CLI-2359,Mayte Baeza-Cordero,53,,Ibarra,3094.39,Independiente,24,1351.32,36,598,1594.83,1,1,2024-10-20,Call Center,Android,Ecuador,Rechazado,0
+SOL-10426,CLI-2296,Isidro Ricart Tomé,25,Otro,Manta,$2534.84,estudiante,213,9244.53,60,399,2814.85,5,1,,Sucursal,IOS,Ecuador,Rechazado,0
+SOL-10264,CLI-1018,Macario del Alcázar,53,F,GUAYAQUIL,4404.85,,129,1515.86,24,415,14528.61,3,1,2024-11-07,Sucursal,Desconocido,Ecuador,Pendiente,0
+SOL-10300,CLI-3865,Francisco Jose Ropero Cantero,25,Otro,quito,3199.23,Desempleado,92,3685.64,12,335,14112.72,5,3,26 de January de 2025,app movil,Desktop,Ecuador,Pendiente,0
+SOL-10174,CLI-3659,Abel Real Sanjuan,18,f,quito,1385.43,Jubilado,10,3157.65,12,695,370.59,4,3,,web,IOS,Ecuador,aprobado,0
+SOL-10265,CLI-2780,Bernardino Robledo Zorrilla,34,,Quito,No disponible,,45,547.01,12,372,8890.6,2,1,2024-09-24,web,iOS,Ecuador,Rechazado,0
+SOL-10133,CLI-2161,Gema Aller Pintor,67,Masculino,Ambato,3777.06,Independiente,149,726.98,12,502,1931.87,6,3,,web,Android,Ecuador,Aprobado,0
+SOL-10102,CLI-1734,José Ángel Natanael Naranjo Bueno,72,Femenino,Cuenca ,991.19,independiente,237,1125.58,60,698,5757.69,5,0,,Web,IOS,Ecuador,Aprobado,0
+SOL-10022,CLI-3289,Ramón del Romero,56,,Cuenca ,3741.53,independiente,212,10071.07,48,760,9564.92,6,3,04-20-2026,,Desconocido,Ecuador,Aprobado,0
+SOL-10492,CLI-4124,Lupe Porfirio Alberdi Jurado,52,,Ambato,$2769.31,Jubilado,114,925.7,36,447,1430.84,1,0,,,IOS,Ecuador,aprobado,0
+SOL-10252,CLI-1631,María Manuela Raya Losa,71,Otro,,1970.98,Desempleado,53,2765.19,36,418,7143.48,3,2,,app movil,android,Ecuador,aprobado,0
+SOL-10602,CLI-4491,Macario de Aguilar,26,Masculino,Ibarra,1363.56,EMPLEADO,86,3601.02,48,710,9627.28,3,2,2026-05-09,Web,,Ecuador,Aprobado,0
+SOL-10082,CLI-3869,Chuy Márquez Requena,25,,Loja,2117.0,Jubilado,105,9993.02,12,441,14971.84,3,1,09/02/2026,web,iOS,Ecuador,Pendiente,0
+SOL-10440,CLI-4087,Flavia Arrieta Pérez,40,f,quito,2910.51,estudiante,126,989.78,60,0,2081.02,2,3,09 de August de 2024,Call Center,iOS,Ecuador,Pendiente,0
+SOL-10015,CLI-3609,Felicidad Gallego Lasa,34,,GUAYAQUIL,3293.24,Independiente,19,1118.24,36,,5469.77,6,3,2025-11-28,web,iOS,Peru,Aprobado,0
+SOL-10206,CLI-3472,Ani Boada-Torre,58,,Manta,3271.94,EMPLEADO,4,9088.52,12,588,10906.61,1,0,2025-06-22,App,android,Ecuador,Pendiente,0
+SOL-10559,CLI-3600,Mamen Tamarit Barba,34,Masculino,Ambato,2689.76,EMPLEADO,189,3637.16,24,811,9246.04,5,3,,app movil,Desktop,Ecuador,Aprobado,0
+SOL-10182,CLI-4162,Isidoro Bernabé Solís Mateu,55,m,Cuenca,2305.27,independiente,93,1858.79,60,469,2388.34,4,1,26 de November de 2025,Sucursal,Desconocido,Ecuador,Aprobado,0
+SOL-10337,CLI-3204,Belén Blazquez Menendez,23,F,GUAYAQUIL,526.88,estudiante,172,6154.93,36,696,10455.45,0,0,15/08/2025,web,iOS,Ecuador,Aprobado,0
+SOL-10575,CLI-1913,Emiliana Rosalva Hoz Beltrán,22,F,Cuenca,4099.09,Desempleado,137,2564.25,48,591,8551.63,0,3,2024-08-31,Call Center,,Ecuador,Aprobado,0
+SOL-10399,CLI-4206,Eloísa Nélida Tudela Folch,69,Masculino,Ambato,4469.46,Desempleado,58,4576.73,24,449,1364.03,0,1,30/09/2024,APP,Desconocido,Ecuador,Rechazado,0
+SOL-10241,CLI-2387,Soraya Paz Bosch,52,Masculino,Quito,2330.02,Independiente,98,5283.83,60,756,12261.63,5,3,31 de January de 2026,Web,,Ecuador,Rechazado,0
+SOL-10119,CLI-2161,Gema Aller Pintor,39,Masculino,Cuenca ,3894.93,Empleado,11,7252.1,24,751,6416.99,5,0,16 de June de 2025,APP,iOS,Ecuador,Aprobado,0
+SOL-10295,CLI-1925,Camila Pelayo Mesa,57,F,Ibarra,-3861.17,EMPLEADO,69,10901.07,24,655,4527.71,6,0,12/12/2025,web,iOS,Ecuador,RECHAZADO,0
+SOL-10566,CLI-4172,Loreto del Mármol,22,Otro,Ibarra,1060.95,Desempleado,213,9531.73,36,391,10513.93,5,1,,Call Center,android,Ecuador,Pendiente,0
+SOL-10547,CLI-2035,Trinidad Soriano Arranz,69,m,quito,2324.9,Desempleado,82,3848.29,12,789,8568.59,1,0,03-10-2026,Sucursal,,Ecuador,Aprobado,0
+SOL-10219,CLI-3356,Desiderio Madrigal Gordillo,50,Otro,Manta,3624.11,EMPLEADO,21,559.63,36,387,10468.06,6,0,30/12/2025,app movil,android,Ecuador,Rechazado,0
+SOL-10595,CLI-1971,Rosalía Dafne Cuadrado Mercader,30,Otro,Cuenca,1644.44,,71,9141.84,48,743,7310.13,5,0,19/02/2026,Web,Android,Ecuador,RECHAZADO,0
+SOL-10509,CLI-4861,Rodolfo Rivera Perelló,51,Masculino,Cuenca,3119.97,Empleado,23,1220.6,48,,2212.37,1,0,28/06/2026,Web,iOS,Ecuador,aprobado,0
+SOL-10053,CLI-2440,Celso del Torralba,24,Femenino,Cuenca,3092.62,Independiente,89,2837.86,36,531,14618.2,6,1,06-19-2025,App,IOS,Ecuador,Aprobado,0
+SOL-10314,CLI-2455,Juan Manuel Viana Ferrera,34,M,Guayaquil,3436.12,Desempleado,215,853.2,36,621,10053.9,4,3,26/04/2026,web,,Ecuador,Rechazado,0
+SOL-10514,CLI-4826,Nerea Rodrigo Pinilla,63,Femenino,GUAYAQUIL,3732.62,estudiante,111,1831.88,48,771,10295.81,2,1,24/02/2026,APP,,Ecuador,Pendiente,0
+SOL-10017,CLI-4761,Elba Gimenez Morata,47,Femenino,Ambato,497.02,EMPLEADO,71,2080.92,60,709,4967.25,0,0,11/03/2026,Sucursal,IOS,Ecuador,Aprobado,0
+SOL-10427,CLI-4980,María Dolores Cobo Milla,61,M,Loja,$3736.5,empleado,128,943.78,48,723,8137.01,4,3,24/03/2026,Web,iOS,Ecuador,Rechazado,0
+SOL-10560,CLI-2281,Ariel Valero Roura,57,Masculino,,1969.06,estudiante,89,10066.5,24,472,8727.7,4,2,17 de October de 2025,APP,,Ecuador,aprobado,0
+SOL-10549,CLI-4253,Florentina Barrena Tomas,30,M,Cuenca,3001.99,Jubilado,41,564.42,48,652,14561.7,3,1,2025-10-27,,IOS,Ecuador,Aprobado,0
+SOL-10281,CLI-4351,Olegario Sánchez Bautista,25,M,Manta,No disponible,EMPLEADO,118,1042.95,12,579,14327.35,0,0,07/09/2024,Web,IOS,Colombia,Rechazado,0
+SOL-10078,CLI-4824,Ildefonso Castell Arnaiz,54,Femenino,,1053.3,estudiante,127,7274.16,48,817,8750.16,0,0,13/02/2025,,IOS,Colombia,aprobado,0
+SOL-10049,CLI-4562,Rosalía Canales Ibarra,32,Masculino,,$4092.18,Desempleado,33,943.97,12,0,236.72,2,0,2024-11-20,Call Center,IOS,Ecuador,aprobado,0
+SOL-10441,CLI-3201,Charo del Malo,18,M,Manta,$4021.61,Empleado,77,3525.51,48,576,8751.8,0,0,25/08/2024,Sucursal,,Ecuador,aprobado,0
+SOL-10003,CLI-1284,César Guerrero Vazquez,20,m,Guayaquil,3906.8,independiente,71,2895.18,36,514,10253.21,0,1,16 de September de 2025,Sucursal,IOS,Ecuador,aprobado,0
+SOL-10407,CLI-4493,Pascual Mendizábal-Nicolás,23,,Cuenca,3743.95,estudiante,186,1816.84,24,481,2817.72,1,0,10/12/2025,app movil,android,Ecuador,Aprobado,0
+SOL-10245,CLI-2387,Soraya Paz Bosch,56,Otro,Loja,2426.61,Independiente,55,601.42,24,763,8668.97,1,0,21 de May de 2026,web,Desktop,Peru,Pendiente,0
+SOL-10641,CLI-2694,Dionisia Nidia Cerro Caballero,23,m,Machala,$1302.97,Empleado,34,1600.55,24,737,13741.07,0,0,2025-01-14,App,Desktop,Ecuador,Rechazado,0
+SOL-10228,CLI-4179,Miguel Ibán Ibáñez Saura,20,Otro,Ibarra,1682.88,,134,554.13,48,,14937.55,4,1,12/03/2026,App,IOS,Colombia,Aprobado,0
+SOL-10042,CLI-4790,Chita del Giménez,36,Otro,Cuenca,1401.21,Desempleado,43,5739.42,24,809,6917.25,2,1,07/10/2025,App,,Ecuador,RECHAZADO,0
+SOL-10637,CLI-3046,Ale Giménez-Manzano,26,Femenino,Guayaquil,2859.17,empleado,29,5265.14,36,950,240.62,3,3,26 de July de 2024,Sucursal,android,Ecuador,Pendiente,0
+SOL-10544,CLI-2269,Carla Chaves Torres,71,m,Ambato,-4498.8,independiente,224,2383.7,36,346,8468.69,1,1,2024-11-14,Sucursal,Desconocido,Ecuador,Aprobado,0
+SOL-10005,CLI-3299,Sandalio Agudo-Cuervo,52,Otro,Cuenca ,2037.54,Desempleado,130,622.22,24,463,952.92,3,1,25/11/2025,APP,IOS,Ecuador,Aprobado,0
+SOL-10640,CLI-4270,Malena Vicente Carbajo,57,f,Manta,1908.67,Independiente,226,8586.91,60,337,11234.06,4,0,2025-08-25,Call Center,Desktop,Ecuador,Pendiente,0
+SOL-10405,CLI-1860,Flor Solsona-Castilla,52,f,Sto. Domingo,2881.15,Independiente,180,2377.66,48,601,12238.83,6,0,2025-09-23,APP,iOS,Ecuador,RECHAZADO,0
+SOL-10261,CLI-1204,Abril Eliana Coca Castillo,75,F,quito,2906.03,Independiente,209,879.09,60,525,5060.15,6,2,01 de August de 2025,Call Center,Desktop,Peru,RECHAZADO,0
+SOL-10594,CLI-4467,Maricela Herrera Moreno,43,,quito,1026.01,independiente,107,1215.31,48,,11870.63,5,0,2025-04-03,Sucursal,iOS,Ecuador,aprobado,0
+SOL-10235,CLI-4619,Fabián Saez Aragonés,57,m,Ambato,$406.48,Independiente,188,5328.08,36,658,169.46,1,2,30/08/2025,APP,,Ecuador,RECHAZADO,0
+SOL-10040,CLI-4245,Amílcar del Almazán,70,Masculino,quito,,EMPLEADO,222,7519.08,48,315,9821.72,1,0,06/09/2025,APP,Desktop,Ecuador,Aprobado,0
+SOL-10308,CLI-3012,Graciela Rios-Mancebo,66,,Quito,No disponible,Desempleado,9,1182.39,48,418,611.88,2,2,09-25-2024,,android,Ecuador,Aprobado,0
+SOL-10272,CLI-2851,Jose Luis Salcedo Beltrán,57,F,Ambato,4056.8,Independiente,100,2566.61,12,411,2219.31,1,3,2026-04-21,App,Desktop,Peru,RECHAZADO,0
+SOL-10461,CLI-1712,Zaira Noriega Pablo,64,Otro,Guayaquil,653.9,Empleado,216,9642.73,60,330,10480.89,3,0,09 de November de 2025,app movil,iOS,Ecuador,Pendiente,0
+SOL-10229,CLI-2800,Gregorio Tomas,43,m,quito,1082.6,Empleado,176,1085.43,48,392,11680.97,5,1,2024-09-18,Call Center,android,Ecuador,Rechazado,0
+SOL-10518,CLI-2125,Donato Arregui Quesada,35,f,Guayaquil,$1307.43,EMPLEADO,56,2382.53,60,771,4931.28,3,1,05-19-2025,App,Desktop,Ecuador,aprobado,0
+SOL-10323,CLI-2812,Antonio Mohamed Bosch Vendrell,27,F,Guayaquil,1787.04,Desempleado,111,582.04,24,359,11986.06,4,0,10/04/2025,Call Center,Desconocido,Ecuador,Pendiente,0
+SOL-10237,CLI-2226,Cornelio Catalán Paz,54,f,GUAYAQUIL,2597.13,EMPLEADO,204,2779.46,24,587,5628.61,4,3,2025-07-26,Call Center,iOS,Ecuador,Pendiente,0
+SOL-10586,CLI-3659,Abel Real Sanjuan,61,Masculino,Guayaquil,4470.88,Jubilado,162,833.51,48,316,14875.53,2,3,06/05/2025,app movil,IOS,Ecuador,Aprobado,0
+SOL-10624,CLI-4102,Jenaro Carbonell,73,Masculino,quito,1782.01,EMPLEADO,136,800.51,36,577,3417.63,2,0,01-10-2025,app movil,Desktop,Ecuador,Pendiente,0
+SOL-10475,CLI-2334,Abilio Cruz Ramírez,54,Otro,Guayaquil,3031.74,Desempleado,6,3101.98,48,683,9328.75,1,0,2025-10-23,APP,iOS,Ecuador,Aprobado,0
+SOL-10428,CLI-1666,Paula Ojeda Pujadas,52,m,Sto. Domingo,3223.06,empleado,179,1038.52,12,391,6169.19,3,2,,Web,Desconocido,Ecuador,Aprobado,0
+SOL-10486,CLI-3690,Adrián Navas Marquez,29,Femenino,Manta,3138.7,independiente,153,8145.34,24,415,11459.05,3,1,22/08/2025,app movil,Desconocido,Ecuador,aprobado,0
+SOL-10065,CLI-2581,Benigna Marín Sebastián,23,M,Loja,4216.39,EMPLEADO,202,507.38,48,442,9230.22,0,0,19/02/2025,app movil,,Ecuador,RECHAZADO,0
+SOL-10643,CLI-2777,Magdalena Gil Rodríguez,48,m,quito,4388.32,Empleado,151,1885.2,24,528,14342.65,3,0,2024-09-15,web,android,Ecuador,RECHAZADO,0
+SOL-10604,CLI-3093,Lucía Ileana Cantero Maldonado,20,,Quito,-1832.46,EMPLEADO,130,1058.87,24,-1,4221.26,4,0,02-16-2026,Call Center,iOS,Ecuador,Pendiente,0
+SOL-10418,CLI-2114,Dulce Sanz Machado,17,m,Machala,2450.89,independiente,185,1181.06,12,639,1515.04,6,3,2024-10-02,App,IOS,Ecuador,RECHAZADO,0
+SOL-10019,CLI-3717,Segismundo de Moles,72,m,GUAYAQUIL,1668.07,independiente,178,976.74,48,478,8219.06,0,0,22/04/2025,app movil,android,Ecuador,Pendiente,0
+SOL-10341,CLI-2348,Casemiro Berenguer Marqués,37,F,Quito,2367.86,EMPLEADO,215,871.54,36,355,3551.15,0,3,03-12-2026,,,Ecuador,RECHAZADO,0
+SOL-10292,CLI-4158,Mamen Roma Agustí,49,Otro,Cuenca ,3173.6,empleado,82,475.64,36,657,11477.91,5,0,12/11/2024,Web,android,Ecuador,aprobado,0
+SOL-10046,CLI-2862,Celestina Busquets Caballero,41,m,Cuenca ,1962.2,EMPLEADO,27,7280.08,60,635,948.26,6,1,27 de October de 2025,APP,Desconocido,Ecuador,Aprobado,0
+SOL-10468,CLI-4141,Artemio Marquez Morillo,48,F,Guayaquil,1425.82,estudiante,180,3777.17,24,754,11703.13,2,3,29 de January de 2025,app movil,IOS,Ecuador,RECHAZADO,0
+SOL-10552,CLI-3150,Eloísa de Vallés,21,f,GUAYAQUIL,1344.74,,42,937.73,60,531,2280.77,4,1,,app movil,Desktop,Ecuador,Pendiente,0
+SOL-10298,CLI-1558,Julieta Salamanca Ribas,19,m,Sto. Domingo,2657.9,Empleado,184,461.07,12,621,13508.62,3,0,18 de January de 2025,Web,android,Ecuador,Rechazado,0
+SOL-10561,CLI-1311,Marcia Bustos Álvarez,30,Otro,Manta,997.64,EMPLEADO,101,4707.25,36,384,12392.01,1,1,2026-05-05,APP,Android,Ecuador,Rechazado,0
+SOL-10606,CLI-2478,Carina Arregui Pulido,47,Femenino,Cuenca ,4049.85,Jubilado,130,493.28,24,641,5828.58,2,1,09/06/2026,Sucursal,android,Ecuador,Pendiente,0
+SOL-10466,CLI-2242,Ernesto Carro-Pino,68,Femenino,Quito,$4218.11,Jubilado,136,5863.88,12,793,10431.61,3,2,18/04/2026,Sucursal,Android,Ecuador,Pendiente,0
+SOL-10041,CLI-4491,Macario de Aguilar,61,Otro,Loja,2969.88,estudiante,223,795.13,36,532,1476.65,5,2,,Web,android,Ecuador,Aprobado,0
+SOL-10446,CLI-2128,Alonso Arias Cerro,32,Otro,Machala,2010.83,empleado,126,1558.58,36,594,7548.6,5,1,06/12/2025,APP,,Ecuador,Rechazado,0
+SOL-10202,CLI-3711,Daniela Saura Coca,34,F,Ambato,,Independiente,239,9215.3,48,836,3936.78,1,0,09 de April de 2025,Call Center,Desktop,Ecuador,aprobado,0
+SOL-10627,CLI-3093,Carmela Ruth Martorell Blazquez,54,m,Quito,4424.47,estudiante,152,5273.77,12,443,12019.5,0,0,,Web,Desktop,Ecuador,Pendiente,0
+SOL-10628,CLI-4881,Ambrosio Barrera,65,Femenino,Quito,4054.38,Empleado,28,2027.35,24,536,11275.9,4,2,,app movil,iOS,Vietnam,Rechazado,1
